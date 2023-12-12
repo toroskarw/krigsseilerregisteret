@@ -1,0 +1,91 @@
+/**
+ * This injects Tailwind's base styles and any base styles registered by
+ * plugins.
+ */
+@tailwind base;
+
+/**
+  * This injects Tailwind's component classes and any component classes
+  * registered by plugins.
+  */
+@tailwind components;
+
+/**
+  * This injects Tailwind's utility classes and any utility classes registered
+  * by plugins.
+  */
+@tailwind utilities;
+
+/* See https://tailwindcss.com/docs/functions-and-directives#layer for examples of what to put in which layer. */
+
+/* Custom base styles */
+@layer base {
+  body {
+    @apply font-normal;
+    @apply text-darkblue;
+  }
+  h1 {
+    @apply text-2xl;
+    @apply font-semibold;
+    @apply text-darkblue;
+  }
+  h2 {
+    @apply text-xl;
+  }
+  a {
+    @apply underline;
+  }
+  /* purgecss start ignore */
+  [data-reach-dialog-overlay] {
+    background: hsla(0, 0%, 0%, 0.33);
+    position: absolute;
+    top: 0px;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    overflow: auto;
+    width: 100%;
+    height: 100%;
+    z-index: 999;
+  }
+  /* purgecss end ignore */
+  dt {
+    @apply font-semibold;
+  }
+
+  th {
+    @apply font-semibold;
+  }
+}
+
+/* Custom component classes */
+@layer components {
+}
+
+/* Custom utility classes */
+@layer utilities {
+  @variants responsive {
+    .list-cols-1 {
+      column-count: 1;
+    }
+    .list-cols-2 {
+      column-count: 2;
+    }
+    .list-cols-3 {
+      column-count: 3;
+    }
+    .list-cols-4 {
+      column-count: 4;
+    }
+  }
+}
+
+/* To get correct size of images on photoswipe */
+.pswp img {
+  max-width: none;
+  object-fit: contain;
+}
+
+.krigsseilerregisteret-clamplines button {
+  color: #6F7C8C;
+}

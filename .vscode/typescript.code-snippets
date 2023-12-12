@@ -1,0 +1,29 @@
+{
+	"React Component": {
+		"prefix": "ksr-react-component",
+		"description": "Creates a react function component with a props placeholder",
+		"body": [
+			"export interface ${1:name}Props {",
+			"\t${0}",
+			"}",
+			"",
+			"export const ${1:name} = (props: ${1:name}Props) => {",
+			"}"
+		],
+		"scope": "typescriptreact"
+	},
+  "Page Head Content": {
+    "prefix": "ksr-page-head",
+    "description": "Creates necessary code for defining page title and other <head> content",
+    "body": [
+      "// Page <head> content",
+      "const pageTitle = useIntl().formatMessage(",
+      "\tdefineMessage({",
+          "\t\tdefaultMessage: \"${1:[Displayed page title in Norwegian]}\",",
+          "\t\tdescription: \"Page title for ${2:[Page name]} page\",",
+      "\t})",
+    ");",
+    "const pageHeadProps: PageHeadProps = { title: pageTitle };"
+    ]
+  }
+}

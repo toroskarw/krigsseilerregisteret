@@ -1,0 +1,39 @@
+{
+  "settings": {
+    "react": {
+      "version": "detect"
+    }
+  },
+  "env": {
+    "browser": true,
+    "es2021": true,
+    "node": true
+  },
+  "extends": [
+    "plugin:@next/next/recommended",
+    "eslint:recommended",
+    "plugin:@typescript-eslint/recommended",
+    "plugin:react/recommended",
+    "plugin:jsx-a11y/recommended",
+    "plugin:prettier/recommended" // Must always be at the end of this array
+  ],
+  "parser": "@typescript-eslint/parser",
+  "parserOptions": {
+    "ecmaFeatures": {
+      "jsx": true
+    },
+    "ecmaVersion": 12,
+    "sourceType": "module"
+  },
+  "plugins": ["react", "@typescript-eslint", "jsx-a11y", "formatjs"],
+  "rules": {
+    "@next/next/no-document-import-in-page": 1,
+    "no-console": "warn",
+    "react/react-in-jsx-scope": "off",
+    "react/prop-types": 0,
+    "formatjs/enforce-description": 2,
+    "formatjs/enforce-default-message": ["error", "literal"],
+    "formatjs/no-id": 2,
+    "jsx-a11y/no-onchange": "warn"
+  }
+}

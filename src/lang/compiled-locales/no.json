@@ -1,0 +1,3808 @@
+{
+  "++KaxU": [
+    {
+      "type": 0,
+      "value": "Død"
+    }
+  ],
+  "+2SNqh": [
+    {
+      "type": 0,
+      "value": "Redaktører"
+    }
+  ],
+  "+MMgWT": [
+    {
+      "type": 0,
+      "value": "Søketreff"
+    }
+  ],
+  "+tQP/I": [
+    {
+      "type": 0,
+      "value": "Marineskip"
+    }
+  ],
+  "+vmLi7": [
+    {
+      "type": 0,
+      "value": "Dokumenter ("
+    },
+    {
+      "type": 1,
+      "value": "count"
+    },
+    {
+      "type": 0,
+      "value": ")"
+    }
+  ],
+  "//JUUo": [
+    {
+      "type": 0,
+      "value": "Spania"
+    }
+  ],
+  "/4tOwT": [
+    {
+      "type": 0,
+      "value": "Skip"
+    }
+  ],
+  "/5ag6w": [
+    {
+      "type": 0,
+      "value": "Januar"
+    }
+  ],
+  "/Gmbfp": [
+    {
+      "type": 0,
+      "value": "Tap"
+    }
+  ],
+  "/H5ZcP": [
+    {
+      "type": 0,
+      "value": "Nei, deltok ikke i hvalfangstekspedisjonen 1939 - 1945"
+    }
+  ],
+  "/WRaKy": [
+    {
+      "type": 0,
+      "value": "Eswatini"
+    }
+  ],
+  "/c08xW": [
+    {
+      "type": 0,
+      "value": "Neste"
+    }
+  ],
+  "/hbZvw": [
+    {
+      "type": 0,
+      "value": "Østerrike"
+    }
+  ],
+  "/mxahp": [
+    {
+      "type": 0,
+      "value": "Les mer om "
+    },
+    {
+      "type": 1,
+      "value": "name"
+    },
+    {
+      "type": 0,
+      "value": " på hens profil"
+    }
+  ],
+  "/yEl1k": [
+    {
+      "type": 0,
+      "value": "Flyangrep"
+    }
+  ],
+  "09uXrv": [
+    {
+      "type": 0,
+      "value": "Krigsseilerregisteret eies og drives av"
+    }
+  ],
+  "0DW8HY": [
+    {
+      "type": 0,
+      "value": "Gjeldende tekstsøk er \""
+    },
+    {
+      "type": 1,
+      "value": "query"
+    },
+    {
+      "type": 0,
+      "value": "\""
+    }
+  ],
+  "0NguxG": [
+    {
+      "type": 0,
+      "value": "Belgia"
+    }
+  ],
+  "0Qizsz": [
+    {
+      "type": 0,
+      "value": "Panama"
+    }
+  ],
+  "0gTvJ3": [
+    {
+      "type": 0,
+      "value": "Puerto Rico"
+    }
+  ],
+  "0gk5yU": [
+    {
+      "type": 0,
+      "value": "Desember"
+    }
+  ],
+  "0lBR/O": [
+    {
+      "type": 0,
+      "value": "Født "
+    },
+    {
+      "type": 1,
+      "value": "birthDate"
+    },
+    {
+      "type": 0,
+      "value": " i "
+    },
+    {
+      "type": 1,
+      "value": "place"
+    }
+  ],
+  "0pGCVe": [
+    {
+      "type": 0,
+      "value": "Tyrkia"
+    }
+  ],
+  "0rdeQF": [
+    {
+      "type": 0,
+      "value": "Nasjonalitet"
+    }
+  ],
+  "0soVQg": [
+    {
+      "type": 0,
+      "value": "AKTUELT"
+    }
+  ],
+  "0xZoqQ": [
+    {
+      "type": 0,
+      "value": "krigsseilerregisteret-personvern"
+    }
+  ],
+  "0yNZ5X": [
+    {
+      "type": 0,
+      "value": "Mai"
+    }
+  ],
+  "19NIti": [
+    {
+      "type": 0,
+      "value": "Russland"
+    }
+  ],
+  "1FCrm8": [
+    {
+      "type": 0,
+      "value": "Filtrer på årsak"
+    }
+  ],
+  "1SWr6d": [
+    {
+      "type": 0,
+      "value": "Sør-Afrika"
+    }
+  ],
+  "1x/duT": [
+    {
+      "type": 0,
+      "value": "Djibouti"
+    }
+  ],
+  "1z89nZ": [
+    {
+      "type": 0,
+      "value": "Alminnelig forlis"
+    }
+  ],
+  "24eDaQ": [
+    {
+      "type": 0,
+      "value": "Alle"
+    }
+  ],
+  "2Dwu1V": [
+    {
+      "type": 0,
+      "value": "Bangladesh"
+    }
+  ],
+  "2N83NB": [
+    {
+      "type": 0,
+      "value": "Bilde"
+    }
+  ],
+  "2PIaJu": [
+    {
+      "type": 0,
+      "value": "Sted"
+    }
+  ],
+  "2PsErP": [
+    {
+      "type": 0,
+      "value": "Indonesia"
+    }
+  ],
+  "2ZiVE/": [
+    {
+      "type": 0,
+      "value": "Senket av eget mannskap eller alliert skip"
+    }
+  ],
+  "2eoFAZ": [
+    {
+      "type": 0,
+      "value": "Ubåt"
+    }
+  ],
+  "2nIycr": [
+    {
+      "type": 0,
+      "value": "«Månedens krigsseiler» fremhever enkelte krigsseilere og deres opplevelser under andre verdenskrig. Siden 2014 har Norsk senter for krigsseilerhistorie valgt ut en krigsseiler hver måned for å vise fram det store spekteret av sjøfolkenes opplevelser i krigstid og bevare minnet om deres innsats. Les deres historier  her."
+    }
+  ],
+  "2nUd9g": [
+    {
+      "type": 0,
+      "value": "Lukk"
+    }
+  ],
+  "2qzrTF": [
+    {
+      "type": 0,
+      "value": "Nasjonalitet"
+    }
+  ],
+  "2uAx4h": [
+    {
+      "type": 0,
+      "value": "Bulgaria"
+    }
+  ],
+  "30p10v": [
+    {
+      "offset": 0,
+      "options": {
+        "=0": {
+          "value": [
+            {
+              "type": 0,
+              "value": "Vi har så ikke registrert noen utgaer av Krigsseileren"
+            }
+          ]
+        },
+        "one": {
+          "value": [
+            {
+              "type": 0,
+              "value": "Vi har så langt registert en utgave av Krigsseileren"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 0,
+              "value": "Vi har så langt registrert "
+            },
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " utgaver av Krigsseileren"
+            }
+          ]
+        }
+      },
+      "pluralType": "cardinal",
+      "type": 6,
+      "value": "total"
+    }
+  ],
+  "37OZzF": [
+    {
+      "type": 0,
+      "value": "Ingen søketreff"
+    }
+  ],
+  "3CPcKK": [
+    {
+      "type": 0,
+      "value": "Søk i Krigsseilerregisteret"
+    }
+  ],
+  "3CTDvK": [
+    {
+      "type": 0,
+      "value": "Byggeår"
+    }
+  ],
+  "3XmR8m": [
+    {
+      "type": 1,
+      "value": "positionName"
+    }
+  ],
+  "3c+Anf": [
+    {
+      "type": 0,
+      "value": "Ecuador"
+    }
+  ],
+  "3f8FOK": [
+    {
+      "type": 0,
+      "value": "Burma/Myanmar"
+    }
+  ],
+  "3hCQmw": [
+    {
+      "type": 0,
+      "value": "Guyana"
+    }
+  ],
+  "3hMfR1": [
+    {
+      "type": 0,
+      "value": "Kina"
+    }
+  ],
+  "3iKbQl": [
+    {
+      "type": 0,
+      "value": "Kallesignal"
+    }
+  ],
+  "3oZFlL": [
+    {
+      "type": 0,
+      "value": "Registrerte deltakere"
+    }
+  ],
+  "3wmuyF": [
+    {
+      "type": 0,
+      "value": "Administrator"
+    }
+  ],
+  "40F+gS": [
+    {
+      "type": 0,
+      "value": "Bilder ("
+    },
+    {
+      "type": 1,
+      "value": "count"
+    },
+    {
+      "type": 0,
+      "value": ")"
+    }
+  ],
+  "462BlX": [
+    {
+      "type": 0,
+      "value": "Ja, deltok i hvalfangstekspedisjonen 1939 - 1945"
+    }
+  ],
+  "4AnwYM": [
+    {
+      "type": 0,
+      "value": "Antall resultater per side"
+    }
+  ],
+  "4am4SY": [
+    {
+      "type": 0,
+      "value": "Se hvor norske skip ble senket og lær mer om dem"
+    }
+  ],
+  "4j1xLg": [
+    {
+      "type": 0,
+      "value": "Filtrer listen"
+    }
+  ],
+  "4mJE7u": [
+    {
+      "type": 0,
+      "value": "Hvalfangstekspedisjon 1939-1940"
+    }
+  ],
+  "52McZf": [
+    {
+      "type": 0,
+      "value": "Født"
+    }
+  ],
+  "55sS6K": [
+    {
+      "type": 0,
+      "value": "Skip"
+    }
+  ],
+  "5A99Xz": [
+    {
+      "type": 0,
+      "value": "Fødested"
+    }
+  ],
+  "5HyU+I": [
+    {
+      "type": 0,
+      "value": "Etiopia"
+    }
+  ],
+  "5KgIxq": [
+    {
+      "type": 0,
+      "value": "Type skip"
+    }
+  ],
+  "5WJ2qW": [
+    {
+      "type": 0,
+      "value": "Detaljer"
+    }
+  ],
+  "5WLy35": [
+    {
+      "type": 0,
+      "value": "Tjenestested"
+    }
+  ],
+  "5wSevZ": [
+    {
+      "type": 0,
+      "value": "Klasse"
+    }
+  ],
+  "61Xmpy": [
+    {
+      "type": 0,
+      "value": "Søk etter sjøfolk og skip i krigsseilerregisteret"
+    }
+  ],
+  "68BJfk": [
+    {
+      "type": 0,
+      "value": "Navn"
+    }
+  ],
+  "6I57p3": [
+    {
+      "type": 0,
+      "value": "Kollisjon"
+    }
+  ],
+  "6KWKWp": [
+    {
+      "type": 0,
+      "value": "Norsk senter for krigsseilerhistorie"
+    }
+  ],
+  "6UunMt": [
+    {
+      "type": 0,
+      "value": "Sjøforklaring 1939 - 1945"
+    }
+  ],
+  "6V8LXx": [
+    {
+      "type": 0,
+      "value": "Sivilt skip"
+    }
+  ],
+  "6W2oss": [
+    {
+      "type": 0,
+      "value": "Liberia"
+    }
+  ],
+  "6Wr7o4": [
+    {
+      "type": 0,
+      "value": "Forrige"
+    }
+  ],
+  "6h/+9B": [
+    {
+      "type": 0,
+      "value": "Minesprengt"
+    }
+  ],
+  "6pJ36u": [
+    {
+      "type": 0,
+      "value": "Jordan"
+    }
+  ],
+  "72T9YA": [
+    {
+      "type": 0,
+      "value": "Tsjekkia"
+    }
+  ],
+  "78+3h2": [
+    {
+      "type": 0,
+      "value": "Irland"
+    }
+  ],
+  "7HHKTp": [
+    {
+      "type": 0,
+      "value": "Albania"
+    }
+  ],
+  "7Ijkox": [
+    {
+      "type": 0,
+      "value": "Beskutt"
+    }
+  ],
+  "7K6dv1": [
+    {
+      "type": 0,
+      "value": "Les mer om "
+    },
+    {
+      "type": 1,
+      "value": "name"
+    },
+    {
+      "type": 0,
+      "value": " på hens profilside"
+    }
+  ],
+  "7eFF3B": [
+    {
+      "type": 0,
+      "value": "Kart over forlis"
+    }
+  ],
+  "7pAVPH": [
+    {
+      "type": 0,
+      "value": "Fødested Å-A"
+    }
+  ],
+  "7wbFLP": [
+    {
+      "type": 0,
+      "value": "Kvinne"
+    }
+  ],
+  "7ySyW6": [
+    {
+      "type": 0,
+      "value": "Stilling"
+    }
+  ],
+  "87xexN": [
+    {
+      "type": 1,
+      "value": "awardName"
+    }
+  ],
+  "8C8OsN": [
+    {
+      "type": 0,
+      "value": "Lengdegrad"
+    }
+  ],
+  "8ECeLa": [
+    {
+      "type": 0,
+      "value": "Cuba"
+    }
+  ],
+  "8FMmLo": [
+    {
+      "type": 0,
+      "value": "Vi har ikke registrert noen mønstringer"
+    }
+  ],
+  "8Lviwx": [
+    {
+      "type": 0,
+      "value": "kilder-til-krigsseilerregisteret"
+    }
+  ],
+  "8nimBe": [
+    {
+      "type": 0,
+      "value": "Et digitalt monument som dokumenterer krigsseilerne"
+    }
+  ],
+  "8nvhZ9": [
+    {
+      "type": 0,
+      "value": "Last"
+    }
+  ],
+  "8u2SqF": [
+    {
+      "type": 0,
+      "value": "Navn"
+    }
+  ],
+  "8yGWEt": [
+    {
+      "type": 0,
+      "value": "Bosatt i"
+    }
+  ],
+  "926OPO": [
+    {
+      "type": 0,
+      "value": "Søk etter sjøfolk"
+    }
+  ],
+  "926SIZ": [
+    {
+      "type": 0,
+      "value": "Libanon"
+    }
+  ],
+  "93bvlw": [
+    {
+      "type": 0,
+      "value": "Vis kun artikler fra årstall"
+    }
+  ],
+  "9BWkuL": [
+    {
+      "type": 0,
+      "value": "Flåtetilhørighet"
+    }
+  ],
+  "9Cdn2b": [
+    {
+      "type": 0,
+      "value": "Utforsk kartet"
+    }
+  ],
+  "9LGndE": [
+    {
+      "type": 0,
+      "value": "Nasjonalitet"
+    }
+  ],
+  "9NVE3t": [
+    {
+      "type": 0,
+      "value": "stottespillere-for-krigsseilerregisteret"
+    }
+  ],
+  "9ZmPk1": [
+    {
+      "type": 0,
+      "value": "Metoden som anvendes for å registrere tjenestested i Krigsseilerregisteret, er transkribering fra Sjøforsvarets londonarkiv. Her føres både mønstringer og tjenestested på Marinens sjøfolk. Tjenestested kan være tjeneste og/eller opphold ved sted."
+    }
+  ],
+  "9gEUsS": [
+    {
+      "type": 0,
+      "value": "Utgave"
+    }
+  ],
+  "ABfw8I": [
+    {
+      "type": 0,
+      "value": "Sykdom"
+    }
+  ],
+  "AFY7UO": [
+    {
+      "type": 0,
+      "value": "Singapore"
+    }
+  ],
+  "AMoU9C": [
+    {
+      "type": 0,
+      "value": "Nettotonnasje"
+    }
+  ],
+  "AUbtZV": [
+    {
+      "type": 1,
+      "value": "seafarerName"
+    }
+  ],
+  "Ade6aM": [
+    {
+      "type": 0,
+      "value": "Tilknyttet mønstringsdistrikt"
+    }
+  ],
+  "AmZIeO": [
+    {
+      "type": 1,
+      "value": "warSailorsJournal"
+    }
+  ],
+  "Auv86S": [
+    {
+      "type": 0,
+      "value": "Somalia"
+    }
+  ],
+  "B1nwn3": [
+    {
+      "type": 0,
+      "value": "Klasse"
+    }
+  ],
+  "B4KNKk": [
+    {
+      "type": 0,
+      "value": "Rekvirert/beslaglagt av aksemaktene"
+    }
+  ],
+  "B5i3iJ": [
+    {
+      "type": 0,
+      "value": "Marshall-øyene"
+    }
+  ],
+  "B6qTDH": [
+    {
+      "type": 0,
+      "value": "Metoden som anvendes for å registrere mønstringsdatoer, er transkribering fra pålitelige kilder."
+    }
+  ],
+  "B8j9Q8": [
+    {
+      "type": 0,
+      "value": "stott-vaart-arbeid-med-krigsseilerregisteret"
+    }
+  ],
+  "BAYTwm": [
+    {
+      "type": 0,
+      "value": "Innsats ("
+    },
+    {
+      "type": 1,
+      "value": "count"
+    },
+    {
+      "type": 0,
+      "value": ")"
+    }
+  ],
+  "BEUoKx": [
+    {
+      "type": 0,
+      "value": "Bilde"
+    }
+  ],
+  "BGYpAz": [
+    {
+      "type": 0,
+      "value": "Sierra Leone"
+    }
+  ],
+  "BKoGAg": [
+    {
+      "type": 0,
+      "value": "Kroatia"
+    }
+  ],
+  "BP8UiA": [
+    {
+      "type": 0,
+      "value": "Tollregistreringsnummer"
+    }
+  ],
+  "BRdOiF": [
+    {
+      "type": 0,
+      "value": "Sjøfolk og skip"
+    }
+  ],
+  "BhOXOI": [
+    {
+      "type": 0,
+      "value": "Våre støttespillere"
+    }
+  ],
+  "BnZByb": [
+    {
+      "type": 0,
+      "value": "Tapsårsak"
+    }
+  ],
+  "BqA9JM": [
+    {
+      "type": 0,
+      "value": "Les mer om "
+    },
+    {
+      "type": 1,
+      "value": "name"
+    },
+    {
+      "type": 0,
+      "value": " på hens profilside"
+    }
+  ],
+  "BsIdkU": [
+    {
+      "type": 0,
+      "value": "Romania"
+    }
+  ],
+  "Bv7ysd": [
+    {
+      "type": 0,
+      "value": "Registrerte skip"
+    }
+  ],
+  "C/eKF0": [
+    {
+      "type": 0,
+      "value": "Årsak"
+    }
+  ],
+  "C9J5QP": [
+    {
+      "type": 0,
+      "value": "Fly"
+    }
+  ],
+  "CFHX8n": [
+    {
+      "type": 0,
+      "value": "Følg oss"
+    }
+  ],
+  "CK1VWZ": [
+    {
+      "type": 0,
+      "value": "Italia"
+    }
+  ],
+  "Cosyog": [
+    {
+      "type": 0,
+      "value": "arkiv over registrerte skip"
+    }
+  ],
+  "D5RE8O": [
+    {
+      "type": 0,
+      "value": "Kapret"
+    }
+  ],
+  "DFL8P/": [
+    {
+      "type": 0,
+      "value": "Arkiv over Tidskriftet Krigsseileren"
+    }
+  ],
+  "DYNasw": [
+    {
+      "type": 0,
+      "value": "Vi har ikke registrert noen bilder."
+    }
+  ],
+  "DZqAHj": [
+    {
+      "type": 0,
+      "value": "Vi har ikke registrert noen vedlegg"
+    }
+  ],
+  "E8/3Xk": [
+    {
+      "type": 0,
+      "value": "Beskutt"
+    }
+  ],
+  "EF6WyD": [
+    {
+      "type": 0,
+      "value": "Palestinamandatet"
+    }
+  ],
+  "EJfOcy": [
+    {
+      "type": 0,
+      "value": "Bygget"
+    }
+  ],
+  "EQltFL": [
+    {
+      "type": 0,
+      "value": "Slovakia"
+    }
+  ],
+  "EdNZ9+": [
+    {
+      "type": 0,
+      "value": "Februar"
+    }
+  ],
+  "Eh+C5m": [
+    {
+      "type": 1,
+      "value": "title"
+    },
+    {
+      "type": 0,
+      "value": " ("
+    },
+    {
+      "type": 1,
+      "value": "total"
+    },
+    {
+      "type": 0,
+      "value": ")"
+    }
+  ],
+  "EtxgeN": [
+    {
+      "type": 0,
+      "value": "El Salvador"
+    }
+  ],
+  "FUZvKG": [
+    {
+      "type": 0,
+      "value": "Mannskap"
+    }
+  ],
+  "Fmz3Yh": [
+    {
+      "type": 0,
+      "value": "Stilling"
+    }
+  ],
+  "FujpkV": [
+    {
+      "type": 0,
+      "value": "Tema"
+    }
+  ],
+  "GJo14O": [
+    {
+      "type": 0,
+      "value": "Mann"
+    }
+  ],
+  "GSMCfG": [
+    {
+      "type": 0,
+      "value": "Registrerte sjøfolk"
+    }
+  ],
+  "GcBQFK": [
+    {
+      "type": 0,
+      "value": "Syria"
+    }
+  ],
+  "GgWd38": [
+    {
+      "type": 0,
+      "value": "Skip"
+    }
+  ],
+  "GiYfFh": [
+    {
+      "type": 0,
+      "value": "Andre navn"
+    }
+  ],
+  "Gr7ViI": [
+    {
+      "type": 0,
+      "value": "bakgrunn-for-krigsseilerregisteret"
+    }
+  ],
+  "GxBWNQ": [
+    {
+      "type": 0,
+      "value": "Tunisia"
+    }
+  ],
+  "HB9/LI": [
+    {
+      "type": 0,
+      "value": "Sjømann"
+    }
+  ],
+  "HCd3ju": [
+    {
+      "type": 0,
+      "value": "Japan"
+    }
+  ],
+  "HOcOdM": [
+    {
+      "type": 0,
+      "value": "Reiserute"
+    }
+  ],
+  "HSbesP": [
+    {
+      "type": 0,
+      "value": "Medlem av sjømannsforening"
+    }
+  ],
+  "HTamlW": [
+    {
+      "type": 0,
+      "value": "Personvern"
+    }
+  ],
+  "HX42bE": [
+    {
+      "type": 0,
+      "value": "Født"
+    }
+  ],
+  "IGBrhf": [
+    {
+      "type": 0,
+      "value": "Grønnland"
+    }
+  ],
+  "IGCXOt": [
+    {
+      "type": 0,
+      "value": "Grunnstøtt/uvær"
+    }
+  ],
+  "ILmz6g": [
+    {
+      "type": 0,
+      "value": "Den dominikanske republikk"
+    }
+  ],
+  "IQJuJK": [
+    {
+      "type": 0,
+      "value": "Matrosrulle"
+    }
+  ],
+  "IZZAYy": [
+    {
+      "type": 0,
+      "value": "Født "
+    },
+    {
+      "type": 1,
+      "value": "date"
+    },
+    {
+      "type": 0,
+      "value": " i "
+    },
+    {
+      "type": 1,
+      "value": "place"
+    }
+  ],
+  "Ie8I9Y": [
+    {
+      "type": 0,
+      "value": "Litauen"
+    }
+  ],
+  "Im1TMV": [
+    {
+      "type": 0,
+      "value": "Suriname"
+    }
+  ],
+  "JBcJPB": [
+    {
+      "type": 0,
+      "value": "Maldivene"
+    }
+  ],
+  "JDNFh0": [
+    {
+      "type": 0,
+      "value": "År"
+    }
+  ],
+  "JJFl8I": [
+    {
+      "type": 0,
+      "value": "Torpedert"
+    }
+  ],
+  "JM7bwl": [
+    {
+      "type": 0,
+      "value": "Vi har ikke registrert noen vedlegg for dette skipet"
+    }
+  ],
+  "JNfw42": [
+    {
+      "type": 0,
+      "value": "Senket av eget mannskap eller alliert skip"
+    }
+  ],
+  "JguBtj": [
+    {
+      "type": 0,
+      "value": "Merknad"
+    }
+  ],
+  "JhhgLt": [
+    {
+      "type": 0,
+      "value": "Bosted"
+    }
+  ],
+  "JpQ5LM": [
+    {
+      "type": 0,
+      "value": "Maskin/motor"
+    }
+  ],
+  "Jt7jGS": [
+    {
+      "type": 0,
+      "value": "Se oversikt over alle månedens krigsseilere"
+    }
+  ],
+  "JuE1WA": [
+    {
+      "type": 0,
+      "value": "Navn"
+    }
+  ],
+  "K0/qIj": [
+    {
+      "type": 0,
+      "value": "Byggeår"
+    }
+  ],
+  "KUmpjZ": [
+    {
+      "type": 0,
+      "value": "Tsjekkoslovakia"
+    }
+  ],
+  "KVw0JB": [
+    {
+      "type": 0,
+      "value": "Posisjon for havn"
+    }
+  ],
+  "KZwmcY": [
+    {
+      "type": 0,
+      "value": "gå tilbake til forsiden"
+    }
+  ],
+  "KbpU8o": [
+    {
+      "type": 0,
+      "value": "Arkiv over utmerkelser"
+    }
+  ],
+  "KxBuIu": [
+    {
+      "type": 0,
+      "value": "Krigsulykke"
+    }
+  ],
+  "L4LTu8": [
+    {
+      "offset": 0,
+      "options": {
+        "=0": {
+          "value": [
+            {
+              "type": 0,
+              "value": "Vi har så ikke registrert noen utmerkelser"
+            }
+          ]
+        },
+        "one": {
+          "value": [
+            {
+              "type": 0,
+              "value": "Vi har så langt registert en utmerkelse"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 0,
+              "value": "Vi har så langt registrert "
+            },
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " utmerkelser"
+            }
+          ]
+        }
+      },
+      "pluralType": "cardinal",
+      "type": 6,
+      "value": "total"
+    }
+  ],
+  "L5ZnRi": [
+    {
+      "type": 0,
+      "value": "Laster..."
+    }
+  ],
+  "LB8qhJ": [
+    {
+      "type": 0,
+      "value": "Den sentralafrikanske republikk"
+    }
+  ],
+  "LPpKTW": [
+    {
+      "type": 0,
+      "value": "Søk etter skip i registeret"
+    }
+  ],
+  "LRXOt3": [
+    {
+      "type": 0,
+      "value": "Mønstringsdistrikt"
+    }
+  ],
+  "LST7/9": [
+    {
+      "type": 0,
+      "value": "Tildelingsdato"
+    }
+  ],
+  "LwS8H7": [
+    {
+      "type": 0,
+      "value": "Kapret"
+    }
+  ],
+  "Ly2tEx": [
+    {
+      "type": 0,
+      "value": "Skjebne"
+    }
+  ],
+  "MBuCw6": [
+    {
+      "type": 0,
+      "value": "Ungarn"
+    }
+  ],
+  "MEn2K5": [
+    {
+      "type": 0,
+      "value": "Klikk her for å lese mer"
+    }
+  ],
+  "MEpgIY": [
+    {
+      "type": 0,
+      "value": "New Zealand"
+    }
+  ],
+  "MMPWib": [
+    {
+      "type": 0,
+      "value": "Antillene"
+    }
+  ],
+  "MOUslf": [
+    {
+      "type": 0,
+      "value": "Iran"
+    }
+  ],
+  "MZxsBP": [
+    {
+      "type": 0,
+      "value": "Født i "
+    },
+    {
+      "type": 1,
+      "value": "place"
+    }
+  ],
+  "Mfm6fV": [
+    {
+      "type": 0,
+      "value": "Navn/Tittel"
+    }
+  ],
+  "MklKyD": [
+    {
+      "type": 0,
+      "value": "Yngst til eldst"
+    }
+  ],
+  "MnL7uJ": [
+    {
+      "offset": 0,
+      "options": {
+        "=0": {
+          "value": [
+            {
+              "type": 0,
+              "value": "Vi har så ikke registrert noen skip"
+            }
+          ]
+        },
+        "one": {
+          "value": [
+            {
+              "type": 0,
+              "value": "Vi har så langt registert ett skip"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 0,
+              "value": "Vi har så langt registrert "
+            },
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " skip"
+            }
+          ]
+        }
+      },
+      "pluralType": "cardinal",
+      "type": 6,
+      "value": "total"
+    }
+  ],
+  "MnsZtx": [
+    {
+      "type": 0,
+      "value": "Referat"
+    }
+  ],
+  "N+ARWt": [
+    {
+      "type": 0,
+      "value": "Tilhørighet til fylke"
+    }
+  ],
+  "N3qWSZ": [
+    {
+      "type": 0,
+      "value": "Dato"
+    }
+  ],
+  "NDA44F": [
+    {
+      "type": 0,
+      "value": "Etternavn Å-A"
+    }
+  ],
+  "NNEcS0": [
+    {
+      "type": 0,
+      "value": "Dag"
+    }
+  ],
+  "NQHDKk": [
+    {
+      "type": 0,
+      "value": "Tilbake til krigsseilerprofil"
+    }
+  ],
+  "NSpnj5": [
+    {
+      "type": 0,
+      "value": "Oktober"
+    }
+  ],
+  "NVPR9r": [
+    {
+      "type": 0,
+      "value": "Fra"
+    }
+  ],
+  "NXxpjk": [
+    {
+      "offset": 0,
+      "options": {
+        "=0": {
+          "value": [
+            {
+              "type": 0,
+              "value": "Vi har så ikke registrert noen sjøfolk"
+            }
+          ]
+        },
+        "one": {
+          "value": [
+            {
+              "type": 0,
+              "value": "Vi har så langt registert en sjømann"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 0,
+              "value": "Vi har så langt registrert "
+            },
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " sjøfolk"
+            }
+          ]
+        }
+      },
+      "pluralType": "cardinal",
+      "type": 6,
+      "value": "total"
+    }
+  ],
+  "Nf4YUv": [
+    {
+      "type": 0,
+      "value": "Brasil"
+    }
+  ],
+  "NhADes": [
+    {
+      "type": 0,
+      "value": "Haiti"
+    }
+  ],
+  "O+Q5zx": [
+    {
+      "type": 0,
+      "value": "Omkom under andre verdenskrig"
+    }
+  ],
+  "O+hGRq": [
+    {
+      "type": 0,
+      "value": "Latvia"
+    }
+  ],
+  "OFVP4j": [
+    {
+      "type": 0,
+      "value": "Navn"
+    }
+  ],
+  "OGuuxx": [
+    {
+      "type": 0,
+      "value": "Vis kun skip med tapsdato"
+    }
+  ],
+  "ORedbO": [
+    {
+      "type": 0,
+      "value": "Internert"
+    }
+  ],
+  "OSz0kE": [
+    {
+      "type": 0,
+      "value": "Månedens Krigsseiler"
+    }
+  ],
+  "OlRwNU": [
+    {
+      "offset": 0,
+      "options": {
+        "=0": {
+          "value": [
+            {
+              "type": 0,
+              "value": "Vi har så langt ikke registrert noen utgaver av Krigsseileren"
+            }
+          ]
+        },
+        "one": {
+          "value": [
+            {
+              "type": 0,
+              "value": "Vi har så langt registert én utgave av Krigsseileren"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 0,
+              "value": "Vi har så langt registrert "
+            },
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " utgaver av Krigsseileren"
+            }
+          ]
+        }
+      },
+      "pluralType": "cardinal",
+      "type": 6,
+      "value": "total"
+    }
+  ],
+  "P2fBHh": [
+    {
+      "type": 0,
+      "value": "Guatemala"
+    }
+  ],
+  "PAJpR2": [
+    {
+      "type": 0,
+      "value": "Armenia"
+    }
+  ],
+  "PEGGRo": [
+    {
+      "type": 1,
+      "value": "shipName"
+    }
+  ],
+  "PEVFl6": [
+    {
+      "type": 0,
+      "value": "Beskutt"
+    }
+  ],
+  "PNoWFz": [
+    {
+      "type": 0,
+      "value": "Marokko"
+    }
+  ],
+  "PbD+R2": [
+    {
+      "type": 0,
+      "value": "Fart"
+    }
+  ],
+  "PcyRB1": [
+    {
+      "type": 0,
+      "value": "Cayman-øyene"
+    }
+  ],
+  "PdCFxh": [
+    {
+      "type": 0,
+      "value": "Ceylon/Sri Lanka"
+    }
+  ],
+  "PgNeUu": [
+    {
+      "type": 0,
+      "value": "Omtalt som Månedens krigsseiler"
+    }
+  ],
+  "Pn7gOl": [
+    {
+      "type": 0,
+      "value": "Brann/Eksplosjon"
+    }
+  ],
+  "PxDUKY": [
+    {
+      "type": 0,
+      "value": "Månedens krigsseiler - "
+    },
+    {
+      "type": 1,
+      "value": "name"
+    }
+  ],
+  "Q1onOz": [
+    {
+      "type": 0,
+      "value": "Bosted vises om fødested mangler"
+    }
+  ],
+  "Q70XW9": [
+    {
+      "type": 0,
+      "value": "Navn"
+    }
+  ],
+  "Q8RphF": [
+    {
+      "type": 0,
+      "value": "Frankrike"
+    }
+  ],
+  "QIKqDo": [
+    {
+      "type": 0,
+      "value": "Nigeria"
+    }
+  ],
+  "QQZRAC": [
+    {
+      "type": 0,
+      "value": "Kallenavn"
+    }
+  ],
+  "QSsqaM": [
+    {
+      "type": 0,
+      "value": "Dokumenter ("
+    },
+    {
+      "type": 1,
+      "value": "documentCount"
+    },
+    {
+      "type": 0,
+      "value": ")"
+    }
+  ],
+  "QmDgL4": [
+    {
+      "type": 1,
+      "value": "shipwreckName"
+    }
+  ],
+  "R0kFEZ": [
+    {
+      "type": 0,
+      "value": "Færøyene"
+    }
+  ],
+  "R9yNEG": [
+    {
+      "type": 0,
+      "value": "Les mer"
+    }
+  ],
+  "RJUCwt": [
+    {
+      "type": 0,
+      "value": "Omtalt i utgave av Krigsseileren"
+    }
+  ],
+  "RXdYy9": [
+    {
+      "type": 0,
+      "value": "Forsiden"
+    }
+  ],
+  "RkZqtR": [
+    {
+      "type": 1,
+      "value": "navigationName"
+    }
+  ],
+  "RqU/TQ": [
+    {
+      "type": 0,
+      "value": "Annet"
+    }
+  ],
+  "S333bF": [
+    {
+      "type": 0,
+      "value": "Tjenestesteder ("
+    },
+    {
+      "type": 1,
+      "value": "count"
+    },
+    {
+      "type": 0,
+      "value": ")"
+    }
+  ],
+  "SDLzMD": [
+    {
+      "type": 0,
+      "value": "Maskin-/motor ytelse"
+    }
+  ],
+  "SGbrGg": [
+    {
+      "type": 0,
+      "value": "Egypt"
+    }
+  ],
+  "SZynpY": [
+    {
+      "type": 0,
+      "value": "Angola"
+    }
+  ],
+  "ScQ6Y7": [
+    {
+      "type": 0,
+      "value": "Ukjent"
+    }
+  ],
+  "SeVan2": [
+    {
+      "type": 0,
+      "value": "Torpedert"
+    }
+  ],
+  "SkJ81V": [
+    {
+      "type": 0,
+      "value": "Kontakt"
+    }
+  ],
+  "T0DbRx": [
+    {
+      "type": 0,
+      "value": "Lengde"
+    }
+  ],
+  "T8xXzN": [
+    {
+      "type": 0,
+      "value": "Algerie"
+    }
+  ],
+  "TMC+gF": [
+    {
+      "type": 0,
+      "value": "Costa Rica"
+    }
+  ],
+  "TUDJYH": [
+    {
+      "type": 0,
+      "value": "Krigsseilerregisteret eies og drives av"
+    }
+  ],
+  "Twsvwb": [
+    {
+      "type": 0,
+      "value": "Påmønstring"
+    }
+  ],
+  "U1S5Nx": [
+    {
+      "type": 0,
+      "value": "Krigsseilerregisteret eies og drives av"
+    }
+  ],
+  "U230K6": [
+    {
+      "type": 0,
+      "value": "Søk"
+    }
+  ],
+  "U4/S1n": [
+    {
+      "type": 0,
+      "value": "Har seilt for rederi"
+    }
+  ],
+  "U5D5Py": [
+    {
+      "type": 0,
+      "value": "Colombia"
+    }
+  ],
+  "U5a/4Z": [
+    {
+      "type": 1,
+      "value": "seafarerName"
+    }
+  ],
+  "U7HjdQ": [
+    {
+      "type": 0,
+      "value": "Island"
+    }
+  ],
+  "UBxZWa": [
+    {
+      "type": 0,
+      "value": "MÅNEDENS KRIGSSEILER"
+    }
+  ],
+  "UD8CIu": [
+    {
+      "type": 0,
+      "value": "Personell"
+    }
+  ],
+  "UGl7S2": [
+    {
+      "type": 0,
+      "value": "Utmerkelser ("
+    },
+    {
+      "type": 1,
+      "value": "count"
+    },
+    {
+      "type": 0,
+      "value": ")"
+    }
+  ],
+  "UbErqR": [
+    {
+      "type": 0,
+      "value": "Sovjetunionen"
+    }
+  ],
+  "UpSrs2": [
+    {
+      "type": 0,
+      "value": "Innsats"
+    }
+  ],
+  "Upi7q5": [
+    {
+      "type": 0,
+      "value": "kake"
+    }
+  ],
+  "Uroybh": [
+    {
+      "type": 0,
+      "value": "Foreldre"
+    }
+  ],
+  "Ux+TmT": [
+    {
+      "type": 0,
+      "value": "Guinea"
+    }
+  ],
+  "V12SoL": [
+    {
+      "type": 0,
+      "value": "Posisjon"
+    }
+  ],
+  "V5cGIS": [
+    {
+      "type": 0,
+      "value": "Sveits"
+    }
+  ],
+  "V8cHEI": [
+    {
+      "type": 0,
+      "value": "Var med på følgende historiske hendelser 1939-1945"
+    }
+  ],
+  "VJ9gRg": [
+    {
+      "type": 0,
+      "value": "Breddegrad"
+    }
+  ],
+  "VZpPQn": [
+    {
+      "type": 0,
+      "value": "Arkiv over skip"
+    }
+  ],
+  "Vc4Gdq": [
+    {
+      "type": 0,
+      "value": "Utmerkelser ("
+    },
+    {
+      "type": 1,
+      "value": "documentCount"
+    },
+    {
+      "type": 0,
+      "value": ")"
+    }
+  ],
+  "ViJdpP": [
+    {
+      "type": 0,
+      "value": "Kjente utdannelser"
+    }
+  ],
+  "Vs81tl": [
+    {
+      "type": 0,
+      "value": "Se hvor norske skip ble senket og lær mer om dem"
+    }
+  ],
+  "W+jr2a": [
+    {
+      "type": 0,
+      "value": "Brann/Eksplosjon"
+    }
+  ],
+  "W6DQ2e": [
+    {
+      "type": 0,
+      "value": "Navn"
+    }
+  ],
+  "WX7OwJ": [
+    {
+      "type": 0,
+      "value": "Krigsforlis"
+    }
+  ],
+  "WeqAIt": [
+    {
+      "type": 1,
+      "value": "articleName"
+    }
+  ],
+  "WyxWtd": [
+    {
+      "type": 0,
+      "value": "Albania"
+    }
+  ],
+  "X5NWi6": [
+    {
+      "type": 0,
+      "value": "Ukjent"
+    }
+  ],
+  "XBr1JZ": [
+    {
+      "type": 0,
+      "value": "Sjømann"
+    }
+  ],
+  "Xb1Pph": [
+    {
+      "type": 0,
+      "value": "Grunnstøtt/uvær"
+    }
+  ],
+  "XbmElb": [
+    {
+      "type": 0,
+      "value": "av"
+    }
+  ],
+  "XnpN4Q": [
+    {
+      "type": 0,
+      "value": "Internert"
+    }
+  ],
+  "Y29RBm": [
+    {
+      "type": 0,
+      "value": "Søk etter skip på navn"
+    }
+  ],
+  "Y51YvF": [
+    {
+      "type": 0,
+      "value": "Jugoslavia"
+    }
+  ],
+  "Y7mzYg": [
+    {
+      "type": 0,
+      "value": "Blogg"
+    }
+  ],
+  "Y9aacn": [
+    {
+      "type": 0,
+      "value": "Kart over forlis"
+    }
+  ],
+  "YD3X6k": [
+    {
+      "type": 0,
+      "value": "Saint Vincent and the Grenadines"
+    }
+  ],
+  "YJW3wT": [
+    {
+      "type": 0,
+      "value": "Beklager, denne siden fant vi ikke"
+    }
+  ],
+  "YM3Ao/": [
+    {
+      "type": 0,
+      "value": "Påmønstret "
+    },
+    {
+      "type": 1,
+      "value": "ship"
+    }
+  ],
+  "YSjfGI": [
+    {
+      "type": 0,
+      "value": "Opplysninger"
+    }
+  ],
+  "YaiS6H": [
+    {
+      "type": 0,
+      "value": "Informasjonen nedenfor vedr. skip i Nortraships flåte er direkte avskrift av orginalkilden 'Sjøforklaringer fra andre verdenskrig (1940-1945)'. Informasjonen her er fra sjøforklaringer holdt under og rett etter krigen og kan derfor avvike noe fra den øvrige kvalitetssikrede informasjonen i Krigsseilerregisteret."
+    }
+  ],
+  "YeH3Tl": [
+    {
+      "type": 0,
+      "value": "Andre verdenskrig"
+    }
+  ],
+  "Yz1N8s": [
+    {
+      "type": 0,
+      "value": "Trinidad og Tobago"
+    }
+  ],
+  "Z0VAXf": [
+    {
+      "type": 0,
+      "value": "Madagaskar"
+    }
+  ],
+  "Z0eI/0": [
+    {
+      "type": 0,
+      "value": "Nasjonalitet"
+    }
+  ],
+  "Z1oTe1": [
+    {
+      "type": 0,
+      "value": "Tapsårsak"
+    }
+  ],
+  "Z3ks55": [
+    {
+      "offset": 0,
+      "options": {
+        "=0": {
+          "value": [
+            {
+              "type": 0,
+              "value": "Viser ingen treff"
+            }
+          ]
+        },
+        "one": {
+          "value": [
+            {
+              "type": 0,
+              "value": "Viser ett treff"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 0,
+              "value": "Viser "
+            },
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " treff"
+            }
+          ]
+        }
+      },
+      "pluralType": "cardinal",
+      "type": 6,
+      "value": "total"
+    }
+  ],
+  "Z5eM6n": [
+    {
+      "type": 0,
+      "value": "Kvinne"
+    }
+  ],
+  "Z6df7k": [
+    {
+      "type": 0,
+      "value": "Nicaragua"
+    }
+  ],
+  "ZB1BTf": [
+    {
+      "type": 0,
+      "value": "Grunnstøtt/uvær"
+    }
+  ],
+  "ZGxTk8": [
+    {
+      "type": 0,
+      "value": "For å hjelpe deg videre foreslår vi at du forsøker et søk"
+    }
+  ],
+  "ZH24U6": [
+    {
+      "type": 0,
+      "value": "Kypros"
+    }
+  ],
+  "ZLSxZo": [
+    {
+      "type": 0,
+      "value": "Canada"
+    }
+  ],
+  "ZWF0VM": [
+    {
+      "type": 0,
+      "value": "Bredde"
+    }
+  ],
+  "Zc7ySN": [
+    {
+      "type": 0,
+      "value": "Søk etter skip"
+    }
+  ],
+  "ZiZMs+": [
+    {
+      "type": 0,
+      "value": "Annet"
+    }
+  ],
+  "ZjxGgX": [
+    {
+      "type": 0,
+      "value": "Begrunnelse"
+    }
+  ],
+  "ZsCdrM": [
+    {
+      "type": 0,
+      "value": "Finland"
+    }
+  ],
+  "a+dzW+": [
+    {
+      "type": 1,
+      "value": "harbourName"
+    }
+  ],
+  "a0j/EC": [
+    {
+      "type": 0,
+      "value": "År. F.eks. 1901"
+    }
+  ],
+  "a70LLa": [
+    {
+      "type": 0,
+      "value": "krigsseilerregisteret-kontakt"
+    }
+  ],
+  "aYTuUO": [
+    {
+      "type": 0,
+      "value": "Polen"
+    }
+  ],
+  "aZKliy": [
+    {
+      "type": 0,
+      "value": "Torpedert"
+    }
+  ],
+  "abukZJ": [
+    {
+      "offset": 0,
+      "options": {
+        "=0": {
+          "value": [
+            {
+              "type": 0,
+              "value": "Ingen treff"
+            }
+          ]
+        },
+        "one": {
+          "value": [
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " treff"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " treff"
+            }
+          ]
+        }
+      },
+      "pluralType": "cardinal",
+      "type": 6,
+      "value": "total"
+    }
+  ],
+  "adizNT": [
+    {
+      "type": 0,
+      "value": "Utdrag fra dekksdagbok"
+    }
+  ],
+  "ay4ezo": [
+    {
+      "type": 0,
+      "value": "Fødested A-Å"
+    }
+  ],
+  "b7qlzH": [
+    {
+      "type": 0,
+      "value": "Tilhørt Sjøforsvarets Skytteravdeling for Handelsflåten"
+    }
+  ],
+  "bHxDYX": [
+    {
+      "type": 0,
+      "value": "Chile"
+    }
+  ],
+  "bW4Z5x": [
+    {
+      "type": 0,
+      "value": "Sankt Helena"
+    }
+  ],
+  "bpjNR6": [
+    {
+      "type": 0,
+      "value": "Se hvor norske skip ble senket og lær mer om dem. Kartet viser også utenlandske skip hvor norske krigsseilere var påmønstret"
+    }
+  ],
+  "cBh+wH": [
+    {
+      "type": 0,
+      "value": "Reddet"
+    }
+  ],
+  "cV9BMe": [
+    {
+      "type": 0,
+      "value": "Støttespillere"
+    }
+  ],
+  "cb0d4W": [
+    {
+      "type": 0,
+      "value": "Alminnelig ulykke"
+    }
+  ],
+  "ccKD7c": [
+    {
+      "type": 0,
+      "value": "Byggeår"
+    }
+  ],
+  "cdmBCj": [
+    {
+      "type": 0,
+      "value": "Dødvekt"
+    }
+  ],
+  "cfZbL6": [
+    {
+      "type": 0,
+      "value": "Rekvirert/beslaglagt av aksemaktene"
+    }
+  ],
+  "cgKGAM": [
+    {
+      "type": 0,
+      "value": "Beskutt"
+    }
+  ],
+  "ckUeLj": [
+    {
+      "type": 0,
+      "value": "redaktorer-for-krigsseilerregisteret"
+    }
+  ],
+  "cqo0e1": [
+    {
+      "type": 0,
+      "value": "Andre navn"
+    }
+  ],
+  "dArO8M": [
+    {
+      "type": 0,
+      "value": "Se mer info om utmerkelsen og oversikt over de mottakerne som vi har registrert."
+    }
+  ],
+  "dBPth/": [
+    {
+      "type": 0,
+      "value": "Det oppstod en feil ved bruk av Google maps"
+    }
+  ],
+  "dK8YZr": [
+    {
+      "type": 0,
+      "value": "Utgave"
+    }
+  ],
+  "dKkvUr": [
+    {
+      "type": 0,
+      "value": "Fødested"
+    }
+  ],
+  "dRZ4dt": [
+    {
+      "type": 0,
+      "value": "Flyangrep"
+    }
+  ],
+  "da0qRe": [
+    {
+      "type": 0,
+      "value": "Måned"
+    }
+  ],
+  "dnT5oX": [
+    {
+      "type": 0,
+      "value": "Første verdenskrig"
+    }
+  ],
+  "du9tEe": [
+    {
+      "type": 0,
+      "value": "Relasjon til fylke"
+    }
+  ],
+  "dySO9/": [
+    {
+      "type": 0,
+      "value": "Hvalfangstekspedisjonen 1939 - 1945"
+    }
+  ],
+  "e+8I5U": [
+    {
+      "type": 0,
+      "value": "Les mer"
+    }
+  ],
+  "e/t68r": [
+    {
+      "type": 0,
+      "value": "Skottland"
+    }
+  ],
+  "e0fD8J": [
+    {
+      "type": 0,
+      "value": "Utført av"
+    }
+  ],
+  "e49Bmk": [
+    {
+      "type": 0,
+      "value": "Etternavn A-Å"
+    }
+  ],
+  "eIVgC4": [
+    {
+      "type": 0,
+      "value": "Tilbake til skipsprofil"
+    }
+  ],
+  "eKfkZy": [
+    {
+      "type": 0,
+      "value": "Vi har i vårt arkiv registrert "
+    },
+    {
+      "type": 1,
+      "value": "recipientCount"
+    },
+    {
+      "type": 0,
+      "value": " mottakere av denne utmerkelsen."
+    }
+  ],
+  "eLB0bS": [
+    {
+      "type": 0,
+      "value": "Bahamas"
+    }
+  ],
+  "eUznDs": [
+    {
+      "type": 0,
+      "value": "Skriv inn ditt søkeord"
+    }
+  ],
+  "ewX1E5": [
+    {
+      "type": 0,
+      "value": "Tap under 2. verdenskrig"
+    }
+  ],
+  "eyamNp": [
+    {
+      "type": 0,
+      "value": "Fornavn A-Å"
+    }
+  ],
+  "f2lh/R": [
+    {
+      "type": 0,
+      "value": "Last inn flere"
+    }
+  ],
+  "fAY4qt": [
+    {
+      "type": 0,
+      "value": "Palestina"
+    }
+  ],
+  "fT7Q/P": [
+    {
+      "type": 0,
+      "value": "Mongolia"
+    }
+  ],
+  "fVlCAH": [
+    {
+      "type": 0,
+      "value": "Savnet"
+    }
+  ],
+  "fYmw58": [
+    {
+      "type": 0,
+      "value": "Finner du ikke det du leter etter?"
+    }
+  ],
+  "fejj1h": [
+    {
+      "type": 0,
+      "value": "Senket av eget mannskap eller alliert skip"
+    }
+  ],
+  "fi0wrF": [
+    {
+      "type": 0,
+      "value": "Vis bare innhold som starter på"
+    }
+  ],
+  "fkW75Y": [
+    {
+      "type": 0,
+      "value": "Navn ikke registrert"
+    }
+  ],
+  "g0NeNV": [
+    {
+      "type": 0,
+      "value": "Zimbabwe"
+    }
+  ],
+  "g48NmO": [
+    {
+      "type": 0,
+      "value": "Havn"
+    }
+  ],
+  "g6+shq": [
+    {
+      "type": 0,
+      "value": "Malaysia"
+    }
+  ],
+  "g7efdN": [
+    {
+      "type": 0,
+      "value": "Mønstringer ("
+    },
+    {
+      "type": 1,
+      "value": "count"
+    },
+    {
+      "type": 0,
+      "value": ")"
+    }
+  ],
+  "gKNZqO": [
+    {
+      "type": 0,
+      "value": "Storbritannia"
+    }
+  ],
+  "gLujmC": [
+    {
+      "type": 0,
+      "value": "Verft"
+    }
+  ],
+  "gMj9iV": [
+    {
+      "type": 0,
+      "value": "Dimensjoner"
+    }
+  ],
+  "gWfCiN": [
+    {
+      "type": 0,
+      "value": "Deltok i 2. verdenskrig"
+    }
+  ],
+  "gX4/rY": [
+    {
+      "type": 0,
+      "value": "i"
+    }
+  ],
+  "gfmEfy": [
+    {
+      "type": 0,
+      "value": "Detaljer"
+    }
+  ],
+  "ggWh3g": [
+    {
+      "type": 0,
+      "value": "Sjømann"
+    }
+  ],
+  "giROx3": [
+    {
+      "type": 0,
+      "value": "Borte på havet"
+    }
+  ],
+  "gkY1DK": [
+    {
+      "type": 0,
+      "value": "Prøv et annet søkeord"
+    }
+  ],
+  "goDeA9": [
+    {
+      "type": 0,
+      "value": "Hjem"
+    }
+  ],
+  "goKn96": [
+    {
+      "type": 0,
+      "value": "Fanget"
+    }
+  ],
+  "h1tcmT": [
+    {
+      "type": 0,
+      "value": "Brann/Eksplosjon"
+    }
+  ],
+  "h1wt7s": [
+    {
+      "type": 0,
+      "value": "India"
+    }
+  ],
+  "hG/0nK": [
+    {
+      "type": 0,
+      "value": "Djibouti"
+    }
+  ],
+  "hJot6B": [
+    {
+      "type": 0,
+      "value": "Alder"
+    }
+  ],
+  "hM5zTY": [
+    {
+      "type": 0,
+      "value": "Sjøforklaring"
+    }
+  ],
+  "hPNDgU": [
+    {
+      "type": 0,
+      "value": "Nullstill filter"
+    }
+  ],
+  "hUjLWz": [
+    {
+      "type": 0,
+      "value": "Venezuela"
+    }
+  ],
+  "hVCDGT": [
+    {
+      "type": 0,
+      "value": "Senket dato"
+    }
+  ],
+  "hbrW1z": [
+    {
+      "type": 0,
+      "value": "Mauritius"
+    }
+  ],
+  "hjTj2n": [
+    {
+      "type": 0,
+      "value": "Saudi Arabia"
+    }
+  ],
+  "hv9sDg": [
+    {
+      "type": 0,
+      "value": "Kollisjon"
+    }
+  ],
+  "i5BOiU": [
+    {
+      "type": 0,
+      "value": "Spesiell tjeneste, fart og/eller hendelser"
+    }
+  ],
+  "i6/cqe": [
+    {
+      "type": 0,
+      "value": "Sjøforklaring 1939 - 1945"
+    }
+  ],
+  "iBWH/M": [
+    {
+      "type": 0,
+      "value": "Hjemmehavn"
+    }
+  ],
+  "iEFgql": [
+    {
+      "type": 0,
+      "value": "Sjøforklaring 1939 - 1945"
+    }
+  ],
+  "iEXwFl": [
+    {
+      "type": 0,
+      "value": "Hong Kong"
+    }
+  ],
+  "iJ7n1z": [
+    {
+      "type": 0,
+      "value": "Fangenskap"
+    }
+  ],
+  "iXSqrN": [
+    {
+      "type": 0,
+      "value": "Lukk utvidet tekst"
+    }
+  ],
+  "ijxRvJ": [
+    {
+      "type": 0,
+      "value": "Søk etter sjøfolk/Søk etter skip"
+    }
+  ],
+  "ilgaR3": [
+    {
+      "type": 0,
+      "value": "Tanzania"
+    }
+  ],
+  "inymfI": [
+    {
+      "type": 0,
+      "value": "Honduras"
+    }
+  ],
+  "itRi4u": [
+    {
+      "type": 0,
+      "value": "Minesprengt"
+    }
+  ],
+  "j27mGI": [
+    {
+      "type": 0,
+      "value": "Kina"
+    }
+  ],
+  "j3ce9c": [
+    {
+      "type": 0,
+      "value": "Utvid resten av teksten"
+    }
+  ],
+  "jDmvPu": [
+    {
+      "type": 0,
+      "value": "Bygget av"
+    }
+  ],
+  "jFBZXq": [
+    {
+      "type": 0,
+      "value": "Tapt i krig"
+    }
+  ],
+  "jMCVTG": [
+    {
+      "type": 0,
+      "value": "Søketreff"
+    }
+  ],
+  "jNIc+j": [
+    {
+      "type": 0,
+      "value": "Bygget i år "
+    },
+    {
+      "type": 1,
+      "value": "buildYear"
+    }
+  ],
+  "jPMbYc": [
+    {
+      "type": 0,
+      "value": "Leveringsmåned"
+    }
+  ],
+  "jbfYyJ": [
+    {
+      "type": 0,
+      "value": "Filippinene"
+    }
+  ],
+  "jh32Jg": [
+    {
+      "type": 0,
+      "value": "Jon Michelet mastergradsstipend"
+    }
+  ],
+  "jkXNRa": [
+    {
+      "type": 0,
+      "value": "Last ned utgave"
+    }
+  ],
+  "jqbO+I": [
+    {
+      "type": 0,
+      "value": "Drektighet"
+    }
+  ],
+  "jwSmdX": [
+    {
+      "type": 0,
+      "value": "Lengdegrad"
+    }
+  ],
+  "k+GREE": [
+    {
+      "type": 0,
+      "value": "Portugal"
+    }
+  ],
+  "k05SgZ": [
+    {
+      "type": 1,
+      "value": "shipyardName"
+    }
+  ],
+  "k3THPZ": [
+    {
+      "type": 0,
+      "value": "Årsak"
+    }
+  ],
+  "kHF0Os": [
+    {
+      "type": 0,
+      "value": "Kollisjon"
+    }
+  ],
+  "kRdVlw": [
+    {
+      "type": 0,
+      "value": "Gjennomgang av nye kilder for å dokumentere krigsseilernes historie er et pågående og omfattende arbeid, og det finnes ikke et helhetlig register over medaljetildelinger. Informasjon om medaljer vil derfor registreres gradvis og være basert på forskjellige kilder. Krigsseilerne ble tildelt medaljer både under og etter krigen. Ønsker du mer informasjon om dekorasjoner, så vennligst se følgende temaside:"
+    }
+  ],
+  "kdn1JE": [
+    {
+      "type": 0,
+      "value": "Har stillinger"
+    }
+  ],
+  "klNYQG": [
+    {
+      "type": 0,
+      "value": "Tonnasje"
+    }
+  ],
+  "kmuzJK": [
+    {
+      "type": 0,
+      "value": "Arkiv over artikler"
+    }
+  ],
+  "kvnKXG": [
+    {
+      "type": 0,
+      "value": "Mars"
+    }
+  ],
+  "l7ZUmU": [
+    {
+      "type": 0,
+      "value": "Arkiv over Månedens krigsseiler"
+    }
+  ],
+  "lMVs/f": [
+    {
+      "type": 0,
+      "value": "Arkiv over sjøfolk"
+    }
+  ],
+  "lTiMd5": [
+    {
+      "type": 0,
+      "value": "Ghana"
+    }
+  ],
+  "lZ+yi3": [
+    {
+      "type": 0,
+      "value": "Søketreff"
+    }
+  ],
+  "lZaLgV": [
+    {
+      "type": 0,
+      "value": "Samoa"
+    }
+  ],
+  "m3qMtk": [
+    {
+      "type": 0,
+      "value": "Annet"
+    }
+  ],
+  "m6Yg84": [
+    {
+      "type": 0,
+      "value": "Torpedert"
+    }
+  ],
+  "mRQmqk": [
+    {
+      "type": 0,
+      "value": "Fransk polynesia"
+    }
+  ],
+  "mo3GRj": [
+    {
+      "type": 0,
+      "value": "Se oversikt over alle månedens krigsseilere"
+    }
+  ],
+  "mvORWt": [
+    {
+      "type": 0,
+      "value": "Mann"
+    }
+  ],
+  "n+FguY": [
+    {
+      "type": 0,
+      "value": "Eritrea"
+    }
+  ],
+  "n/dxW/": [
+    {
+      "type": 0,
+      "value": "Gå til registeret"
+    }
+  ],
+  "n738vr": [
+    {
+      "type": 0,
+      "value": "Kapret"
+    }
+  ],
+  "nBndFf": [
+    {
+      "type": 0,
+      "value": "Avmønstring"
+    }
+  ],
+  "nFXkJ3": [
+    {
+      "type": 0,
+      "value": "Eldst til yngst"
+    }
+  ],
+  "nM+qz0": [
+    {
+      "type": 0,
+      "value": "Direkte oppslag på fødselsdato"
+    }
+  ],
+  "nXQl0c": [
+    {
+      "type": 0,
+      "value": "Thailand"
+    }
+  ],
+  "nbUXC4": [
+    {
+      "type": 0,
+      "value": "Aktuelt"
+    }
+  ],
+  "nn4AMv": [
+    {
+      "type": 0,
+      "value": "Født "
+    },
+    {
+      "type": 1,
+      "value": "date"
+    }
+  ],
+  "o/kXnt": [
+    {
+      "type": 0,
+      "value": "Fornavn Å-A"
+    }
+  ],
+  "o13Z+x": [
+    {
+      "type": 0,
+      "value": "Nei, omkom ikke under 2. verdenskrig"
+    }
+  ],
+  "oB4n/+": [
+    {
+      "type": 0,
+      "value": "April"
+    }
+  ],
+  "oU8nHh": [
+    {
+      "type": 0,
+      "value": "Relevans"
+    }
+  ],
+  "oZcOc6": [
+    {
+      "type": 0,
+      "value": "Juli"
+    }
+  ],
+  "obEbzf": [
+    {
+      "type": 0,
+      "value": "Bilde 1 av "
+    },
+    {
+      "type": 1,
+      "value": "count"
+    }
+  ],
+  "oeETJ4": [
+    {
+      "type": 0,
+      "value": "Kilder"
+    }
+  ],
+  "oiSYZS": [
+    {
+      "type": 0,
+      "value": "Estland"
+    }
+  ],
+  "oo/Bk7": [
+    {
+      "type": 0,
+      "value": "Thailand"
+    }
+  ],
+  "p//sAi": [
+    {
+      "type": 0,
+      "value": "arkiv over registrerte sjøfolk"
+    }
+  ],
+  "p2ZdSc": [
+    {
+      "type": 0,
+      "value": "Til"
+    }
+  ],
+  "pHOw/f": [
+    {
+      "type": 0,
+      "value": "Peru"
+    }
+  ],
+  "pRyhdk": [
+    {
+      "type": 0,
+      "value": "Ukjent"
+    }
+  ],
+  "pT/IoR": [
+    {
+      "type": 0,
+      "value": "Bermuda"
+    }
+  ],
+  "phlCy3": [
+    {
+      "type": 0,
+      "value": "Omkommet"
+    }
+  ],
+  "plIF9d": [
+    {
+      "type": 0,
+      "value": "Base"
+    }
+  ],
+  "pnKqvq": [
+    {
+      "type": 0,
+      "value": "Zimbabwe"
+    }
+  ],
+  "pnl0zl": [
+    {
+      "type": 0,
+      "value": "Kapret"
+    }
+  ],
+  "pq93uc": [
+    {
+      "type": 0,
+      "value": "ARTIKKEL"
+    }
+  ],
+  "pqQDRK": [
+    {
+      "type": 0,
+      "value": "År"
+    }
+  ],
+  "puCbSf": [
+    {
+      "type": 0,
+      "value": "Minesprengt"
+    }
+  ],
+  "pvZAUk": [
+    {
+      "type": 0,
+      "value": "Barbados"
+    }
+  ],
+  "pw7vSK": [
+    {
+      "type": 0,
+      "value": "Flyangrep"
+    }
+  ],
+  "q7P8pG": [
+    {
+      "type": 0,
+      "value": "Bruttotonnasje"
+    }
+  ],
+  "q9BQqU": [
+    {
+      "type": 0,
+      "value": "Skip"
+    }
+  ],
+  "qNVCsZ": [
+    {
+      "type": 0,
+      "value": "Bygget "
+    },
+    {
+      "type": 1,
+      "value": "year"
+    }
+  ],
+  "qP84fn": [
+    {
+      "type": 0,
+      "value": "Jamaica"
+    }
+  ],
+  "qS013V": [
+    {
+      "type": 0,
+      "value": "Argentina"
+    }
+  ],
+  "qSk//9": [
+    {
+      "type": 0,
+      "value": "Byggenummer"
+    }
+  ],
+  "qX9CIn": [
+    {
+      "type": 0,
+      "value": "Kjønn"
+    }
+  ],
+  "qfmsB9": [
+    {
+      "type": 0,
+      "value": "USA"
+    }
+  ],
+  "r+Da2k": [
+    {
+      "type": 0,
+      "value": "Sverige"
+    }
+  ],
+  "rCW4ES": [
+    {
+      "type": 0,
+      "value": "Utført av"
+    }
+  ],
+  "rG9Qu8": [
+    {
+      "type": 0,
+      "value": "Sjøforklaring 1939-1945"
+    }
+  ],
+  "rOs3G8": [
+    {
+      "type": 0,
+      "value": "Marineskip"
+    }
+  ],
+  "rZsSzd": [
+    {
+      "type": 0,
+      "value": "Bakgrunn"
+    }
+  ],
+  "rZtHJf": [
+    {
+      "type": 0,
+      "value": "Tilbake til sjøforklaring"
+    }
+  ],
+  "rjBiWq": [
+    {
+      "type": 0,
+      "value": "Alternativt kan du enten "
+    },
+    {
+      "type": 1,
+      "value": "backToFrontPage"
+    },
+    {
+      "type": 0,
+      "value": ", besøke vårt "
+    },
+    {
+      "type": 1,
+      "value": "visitShipArchive"
+    },
+    {
+      "type": 0,
+      "value": " eller "
+    },
+    {
+      "type": 1,
+      "value": "visitSeafarerArchive"
+    }
+  ],
+  "rkw/kt": [
+    {
+      "type": 0,
+      "value": "Posisjon for forlis"
+    }
+  ],
+  "rmTG7q": [
+    {
+      "type": 0,
+      "value": "Ikke registrert"
+    }
+  ],
+  "rrpQJv": [
+    {
+      "type": 0,
+      "value": "Mannskap ("
+    },
+    {
+      "type": 1,
+      "value": "count"
+    },
+    {
+      "type": 0,
+      "value": ")"
+    }
+  ],
+  "rz+Q4P": [
+    {
+      "type": 0,
+      "value": "Støtt vårt arbeid"
+    }
+  ],
+  "s2cDjb": [
+    {
+      "type": 0,
+      "value": "Jordan"
+    }
+  ],
+  "s38fCa": [
+    {
+      "type": 0,
+      "value": "Resultater per side"
+    }
+  ],
+  "s8Rbtn": [
+    {
+      "type": 0,
+      "value": "Sivilt skip"
+    }
+  ],
+  "sBwhNt": [
+    {
+      "type": 0,
+      "value": "Kallesignal"
+    }
+  ],
+  "sDzcK9": [
+    {
+      "type": 0,
+      "value": "Rederi"
+    }
+  ],
+  "sEM1gj": [
+    {
+      "type": 0,
+      "value": "Maskin-/motortype"
+    }
+  ],
+  "sFXv8G": [
+    {
+      "type": 0,
+      "value": "Mannskapsliste"
+    }
+  ],
+  "sf1EQ9": [
+    {
+      "type": 0,
+      "value": "Født i"
+    }
+  ],
+  "snPMDa": [
+    {
+      "type": 0,
+      "value": "Tyskland"
+    }
+  ],
+  "swxEu8": [
+    {
+      "type": 0,
+      "value": "Måned"
+    }
+  ],
+  "t4VEgU": [
+    {
+      "type": 0,
+      "value": "Malta"
+    }
+  ],
+  "t8O9Ok": [
+    {
+      "type": 0,
+      "value": "Juni"
+    }
+  ],
+  "tDgKZs": [
+    {
+      "type": 0,
+      "value": "Tjenestegjorde under krig"
+    }
+  ],
+  "tFcaBG": [
+    {
+      "type": 0,
+      "value": "Utviklingen av registeret"
+    }
+  ],
+  "tH5lhZ": [
+    {
+      "type": 0,
+      "value": "Skriv inn ditt søkeord"
+    }
+  ],
+  "tV4XVU": [
+    {
+      "type": 0,
+      "value": "Dekorasjoner"
+    }
+  ],
+  "tYvvWh": [
+    {
+      "type": 0,
+      "value": "Kjønn"
+    }
+  ],
+  "tbc1qA": [
+    {
+      "type": 0,
+      "value": "Vis bare innhold av en gitt type"
+    }
+  ],
+  "tfMzMn": [
+    {
+      "type": 0,
+      "value": "Norge"
+    }
+  ],
+  "tfyd9e": [
+    {
+      "type": 0,
+      "value": "Tollregistreringsdato"
+    }
+  ],
+  "tqzhdo": [
+    {
+      "type": 0,
+      "value": "AKTUELT"
+    }
+  ],
+  "tsXO8C": [
+    {
+      "type": 0,
+      "value": "Forårsaket av nasjon"
+    }
+  ],
+  "ttc4OF": [
+    {
+      "type": 0,
+      "value": "Last inn flere"
+    }
+  ],
+  "tvEd65": [
+    {
+      "type": 0,
+      "value": "Prøv et annet søkeord eller fortsett søket i våre arkivsider med enda flere søkeverktøy"
+    }
+  ],
+  "tx8+Wr": [
+    {
+      "type": 0,
+      "value": "Sorter etter"
+    }
+  ],
+  "tynkgI": [
+    {
+      "type": 0,
+      "value": "Vietnam"
+    }
+  ],
+  "uEixtL": [
+    {
+      "type": 0,
+      "value": "Søk i Krigsseilerregisteret"
+    }
+  ],
+  "uNQ0Qg": [
+    {
+      "type": 0,
+      "value": "Les mer om"
+    }
+  ],
+  "urlq84": [
+    {
+      "type": 0,
+      "value": "Land"
+    }
+  ],
+  "ux5FVQ": [
+    {
+      "type": 0,
+      "value": "Mexico"
+    }
+  ],
+  "v7LJ54": [
+    {
+      "type": 0,
+      "value": "Sjøforklaring 1939-1945"
+    }
+  ],
+  "v7xmEK": [
+    {
+      "type": 0,
+      "value": "Sjøfolk"
+    }
+  ],
+  "vB6Ak8": [
+    {
+      "type": 0,
+      "value": "Rekvirert"
+    }
+  ],
+  "vVdttO": [
+    {
+      "type": 0,
+      "value": "Nederland"
+    }
+  ],
+  "vbKyp2": [
+    {
+      "type": 0,
+      "value": "Hellas"
+    }
+  ],
+  "vlyzu/": [
+    {
+      "type": 0,
+      "value": "Ja, omkom under 2. verdenskrig"
+    }
+  ],
+  "vmSJgK": [
+    {
+      "type": 0,
+      "value": "Informasjonen om registrerte krigsseilere er ikke nødvendigvis fullstendig. Eksempelvis vil mønstringer og utmerkelser for enkelte sjøfolk bli registrert senere, ettersom nye kilder blir gjennomgått."
+    }
+  ],
+  "vndlJI": [
+    {
+      "type": 0,
+      "value": "Internert"
+    }
+  ],
+  "vophtB": [
+    {
+      "type": 0,
+      "value": "Jemen"
+    }
+  ],
+  "vrXHQA": [
+    {
+      "type": 0,
+      "value": "Fiji"
+    }
+  ],
+  "w2gFtx": [
+    {
+      "type": 0,
+      "value": "Forårsaket av nasjon"
+    }
+  ],
+  "w9Z7uG": [
+    {
+      "type": 0,
+      "value": "Annotasjonsrulle"
+    }
+  ],
+  "wA4PxD": [
+    {
+      "type": 0,
+      "value": "November"
+    }
+  ],
+  "wBitbG": [
+    {
+      "type": 0,
+      "value": "Sierra Leone"
+    }
+  ],
+  "wD0Yy6": [
+    {
+      "type": 0,
+      "value": "Fangenskap"
+    }
+  ],
+  "wH77sY": [
+    {
+      "type": 0,
+      "value": "Australia"
+    }
+  ],
+  "wJyHhg": [
+    {
+      "type": 0,
+      "value": "krigsseilerregisteret-i-korte-trekk-no"
+    }
+  ],
+  "wQCyTY": [
+    {
+      "type": 0,
+      "value": "Annen årsak"
+    }
+  ],
+  "wUxI/u": [
+    {
+      "type": 0,
+      "value": "Gibraltar"
+    }
+  ],
+  "wZLU4Q": [
+    {
+      "type": 0,
+      "value": "Breddegrad"
+    }
+  ],
+  "wcobVe": [
+    {
+      "type": 0,
+      "value": "Danmark"
+    }
+  ],
+  "wh3cp+": [
+    {
+      "type": 0,
+      "value": "Hjem"
+    }
+  ],
+  "wiksfl": [
+    {
+      "type": 0,
+      "value": "Iran"
+    }
+  ],
+  "wr4/G4": [
+    {
+      "type": 0,
+      "value": "Ble senket:"
+    }
+  ],
+  "wuj9Fl": [
+    {
+      "type": 0,
+      "value": "Minesprengt"
+    }
+  ],
+  "x5B5ti": [
+    {
+      "type": 0,
+      "value": "Seychellene"
+    }
+  ],
+  "xCrD5r": [
+    {
+      "type": 0,
+      "value": "Kontakt oss"
+    }
+  ],
+  "xPvXsA": [
+    {
+      "type": 0,
+      "value": "Ukraina"
+    }
+  ],
+  "xVDPqA": [
+    {
+      "type": 0,
+      "value": "Flyangrep"
+    }
+  ],
+  "xcyCLB": [
+    {
+      "type": 0,
+      "value": "Flåtetilhørighet"
+    }
+  ],
+  "xfhG5E": [
+    {
+      "type": 0,
+      "value": "September"
+    }
+  ],
+  "xiD2oK": [
+    {
+      "type": 0,
+      "value": "Bolivia"
+    }
+  ],
+  "xppTYw": [
+    {
+      "type": 0,
+      "value": "Søk i alt innhold på nettsiden"
+    }
+  ],
+  "xxbj9R": [
+    {
+      "type": 0,
+      "value": "Nasjonalitet"
+    }
+  ],
+  "y3j7CS": [
+    {
+      "type": 0,
+      "value": "Omtalt som Månedens krigsseiler"
+    }
+  ],
+  "yI1cDA": [
+    {
+      "type": 0,
+      "value": "Belize"
+    }
+  ],
+  "yYvrwX": [
+    {
+      "type": 0,
+      "value": "Nasjonalitet"
+    }
+  ],
+  "yZJK64": [
+    {
+      "type": 0,
+      "value": "Deltok i 1. verdenskrig"
+    }
+  ],
+  "ya0nDG": [
+    {
+      "type": 0,
+      "value": "August"
+    }
+  ],
+  "yu3uKg": [
+    {
+      "type": 0,
+      "value": "År"
+    }
+  ],
+  "ywdvaw": [
+    {
+      "type": 0,
+      "value": "Kilder"
+    }
+  ],
+  "yz2Ef8": [
+    {
+      "type": 0,
+      "value": "Uruguay"
+    }
+  ],
+  "z0Y5AP": [
+    {
+      "type": 0,
+      "value": "Søk etter skip"
+    }
+  ],
+  "z25uWy": [
+    {
+      "type": 0,
+      "value": "År"
+    }
+  ],
+  "zJZG4L": [
+    {
+      "type": 0,
+      "value": "Syria"
+    }
+  ],
+  "zOdJgp": [
+    {
+      "type": 0,
+      "value": "Sudan"
+    }
+  ],
+  "zZ7PJG": [
+    {
+      "type": 0,
+      "value": "Opplysninger"
+    }
+  ],
+  "zZZW2n": [
+    {
+      "type": 0,
+      "value": "Dypgående"
+    }
+  ],
+  "zbJpkD": [
+    {
+      "type": 0,
+      "value": "Påmønstret "
+    },
+    {
+      "type": 1,
+      "value": "ship"
+    },
+    {
+      "type": 0,
+      "value": " som "
+    },
+    {
+      "type": 1,
+      "value": "position"
+    }
+  ]
+}

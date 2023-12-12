@@ -1,0 +1,2233 @@
+{
+  "+2SNqh": {
+    "defaultMessage": "Editors",
+    "description": "Footer link text"
+  },
+  "//JUUo": {
+    "defaultMessage": "Spain",
+    "description": "Brukes for oversettelse av landkode es"
+  },
+  "/WRaKy": {
+    "defaultMessage": "Eswatini",
+    "description": "Brukes for oversettelse av landkode sz"
+  },
+  "/hbZvw": {
+    "defaultMessage": "Austria",
+    "description": "Brukes for oversettelse av landkode at"
+  },
+  "0NguxG": {
+    "defaultMessage": "Belgium",
+    "description": "Brukes for oversettelse av landkode be"
+  },
+  "0Qizsz": {
+    "defaultMessage": "Panama",
+    "description": "Brukes for oversettelse av landkode pa"
+  },
+  "0gTvJ3": {
+    "defaultMessage": "Puerto Rico",
+    "description": "Brukes for oversettelse av landkode pr"
+  },
+  "0pGCVe": {
+    "defaultMessage": "Turkey",
+    "description": "Brukes for oversettelse av landkode tr"
+  },
+  "19NIti": {
+    "defaultMessage": "Russia",
+    "description": "Brukes for oversettelse av landkode ru"
+  },
+  "1SWr6d": {
+    "defaultMessage": "South Africa",
+    "description": "Brukes for oversettelse av landkode za"
+  },
+  "2Dwu1V": {
+    "defaultMessage": "Bangladesh",
+    "description": "Brukes for oversettelse av landkode bd"
+  },
+  "2PsErP": {
+    "defaultMessage": "Indonesia",
+    "description": "Brukes for oversettelse av landkode id"
+  },
+  "2uAx4h": {
+    "defaultMessage": "Bulgaria",
+    "description": "Brukes for oversettelse av landkode bg"
+  },
+  "3c+Anf": {
+    "defaultMessage": "Ecuador",
+    "description": "Brukes for oversettelse av landkode ec"
+  },
+  "3f8FOK": {
+    "defaultMessage": "Burma/Myanmar",
+    "description": "Brukes for oversettelse av landkode mm"
+  },
+  "3hCQmw": {
+    "defaultMessage": "Guyana",
+    "description": "Brukes for oversettelse av landkode gy"
+  },
+  "3hMfR1": {
+    "defaultMessage": "China",
+    "description": "Brukes for oversettelse av landkode CN"
+  },
+  "5HyU+I": {
+    "defaultMessage": "Etiopia",
+    "description": "Brukes for oversettelse av landkode et"
+  },
+  "61Xmpy": {
+    "defaultMessage": "Search for seafarers and ships",
+    "description": "Front page search box placeholder text"
+  },
+  "6KWKWp": {
+    "defaultMessage": "Centre for the History of Seafarers at War",
+    "description": "Footer link text"
+  },
+  "6W2oss": {
+    "defaultMessage": "Liberia",
+    "description": "Brukes for oversettelse av landkode lr"
+  },
+  "72T9YA": {
+    "defaultMessage": "Czech Republic",
+    "description": "Brukes for oversettelse av landkode cz"
+  },
+  "78+3h2": {
+    "defaultMessage": "Ireland",
+    "description": "Brukes for oversettelse av landkode ie"
+  },
+  "8ECeLa": {
+    "defaultMessage": "Cuba",
+    "description": "Brukes for oversettelse av landkode cu"
+  },
+  "8nimBe": {
+    "defaultMessage": "A digital monument documenting the war time seafarers",
+    "description": "Front page description"
+  },
+  "926SIZ": {
+    "defaultMessage": "Libanon",
+    "description": "Brukes for oversettelse av landkode lb"
+  },
+  "AFY7UO": {
+    "defaultMessage": "Singapore",
+    "description": "Brukes for oversettelse av landkode sg"
+  },
+  "AUbtZV": {
+    "defaultMessage": "{seafarerName}",
+    "description": "Page title for seafarer detail page"
+  },
+  "Auv86S": {
+    "defaultMessage": "Somalia",
+    "description": "Brukes for oversettelse av landkode so"
+  },
+  "B5i3iJ": {
+    "defaultMessage": "Marshall Islands",
+    "description": "Brukes for oversettelse av landkode mh"
+  },
+  "BKoGAg": {
+    "defaultMessage": "Croatia",
+    "description": "Brukes for oversettelse av landkode hr"
+  },
+  "BsIdkU": {
+    "defaultMessage": "Romania",
+    "description": "Brukes for oversettelse av landkode ro"
+  },
+  "CK1VWZ": {
+    "defaultMessage": "Italy",
+    "description": "Brukes for oversettelse av landkode it"
+  },
+  "EF6WyD": {
+    "defaultMessage": "Palestine Mandate",
+    "description": "Brukes for oversettelse av landkode _p"
+  },
+  "EQltFL": {
+    "defaultMessage": "Slovakia",
+    "description": "Brukes for oversettelse av landkode sk"
+  },
+  "EtxgeN": {
+    "defaultMessage": "El Salvador",
+    "description": "Brukes for oversettelse av landkode sv"
+  },
+  "FujpkV": {
+    "defaultMessage": "Topics",
+    "description": "Navigation link text to Topics main page"
+  },
+  "GxBWNQ": {
+    "defaultMessage": "Tunisia",
+    "description": "Brukes for oversettelse av landkode tn"
+  },
+  "HB9/LI": {
+    "defaultMessage": "Seafarers",
+    "description": "Seafarer"
+  },
+  "HCd3ju": {
+    "defaultMessage": "Japan",
+    "description": "Brukes for oversettelse av landkode jp"
+  },
+  "HTamlW": {
+    "defaultMessage": "Privacy",
+    "description": "Footer link text"
+  },
+  "IGBrhf": {
+    "defaultMessage": "Greenland",
+    "description": "Brukes for oversettelse av landkode gl"
+  },
+  "ILmz6g": {
+    "defaultMessage": "Den Dominican Republic",
+    "description": "Brukes for oversettelse av landkode do"
+  },
+  "Ie8I9Y": {
+    "defaultMessage": "Lithuania",
+    "description": "Brukes for oversettelse av landkode lt"
+  },
+  "Im1TMV": {
+    "defaultMessage": "Suriname",
+    "description": "Brukes for oversettelse av landkode sr"
+  },
+  "JBcJPB": {
+    "defaultMessage": "Maldives",
+    "description": "Brukes for oversettelse av landkode mv"
+  },
+  "KUmpjZ": {
+    "defaultMessage": "Czech Republic",
+    "description": "Brukes for oversettelse av landkode cs"
+  },
+  "LB8qhJ": {
+    "defaultMessage": "The Central African Republic",
+    "description": "Brukes for oversettelse av landkode cf"
+  },
+  "MBuCw6": {
+    "defaultMessage": "Hungary",
+    "description": "Brukes for oversettelse av landkode hu"
+  },
+  "MEpgIY": {
+    "defaultMessage": "New Zealand",
+    "description": "Brukes for oversettelse av landkode nz"
+  },
+  "MMPWib": {
+    "defaultMessage": "Antilles",
+    "description": "Brukes for oversettelse av landkode an"
+  },
+  "Nf4YUv": {
+    "defaultMessage": "Brasil",
+    "description": "Brukes for oversettelse av landkode br"
+  },
+  "NhADes": {
+    "defaultMessage": "Haiti",
+    "description": "Brukes for oversettelse av landkode ht"
+  },
+  "O+hGRq": {
+    "defaultMessage": "Latvia",
+    "description": "Brukes for oversettelse av landkode lv"
+  },
+  "P2fBHh": {
+    "defaultMessage": "Guatemala",
+    "description": "Brukes for oversettelse av landkode gt"
+  },
+  "PAJpR2": {
+    "defaultMessage": "Armenia",
+    "description": "Brukes for oversettelse av landkode am"
+  },
+  "PNoWFz": {
+    "defaultMessage": "Morocoo",
+    "description": "Brukes for oversettelse av landkode ma"
+  },
+  "PcyRB1": {
+    "defaultMessage": "Cayman Islands",
+    "description": "Brukes for oversettelse av landkode ky"
+  },
+  "PdCFxh": {
+    "defaultMessage": "Ceylon/Sri Lanka",
+    "description": "Brukes for oversettelse av landkode lk"
+  },
+  "Q8RphF": {
+    "defaultMessage": "France",
+    "description": "Brukes for oversettelse av landkode fr"
+  },
+  "QIKqDo": {
+    "defaultMessage": "Nigeria",
+    "description": "Brukes for oversettelse av landkode ng"
+  },
+  "R0kFEZ": {
+    "defaultMessage": "The Faroe Islands",
+    "description": "Brukes for oversettelse av landkode fo"
+  },
+  "RXdYy9": {
+    "defaultMessage": "Front page",
+    "description": "Front page title"
+  },
+  "SGbrGg": {
+    "defaultMessage": "Egypt",
+    "description": "Brukes for oversettelse av landkode eg"
+  },
+  "SZynpY": {
+    "defaultMessage": "Angola",
+    "description": "Brukes for oversettelse av landkode ao"
+  },
+  "SkJ81V": {
+    "defaultMessage": "Contact",
+    "description": "Footer link text"
+  },
+  "T8xXzN": {
+    "defaultMessage": "Algerie",
+    "description": "Brukes for oversettelse av landkode dz"
+  },
+  "TMC+gF": {
+    "defaultMessage": "Costa Rica",
+    "description": "Brukes for oversettelse av landkode cr"
+  },
+  "U5D5Py": {
+    "defaultMessage": "Colombia",
+    "description": "Brukes for oversettelse av landkode co"
+  },
+  "U7HjdQ": {
+    "defaultMessage": "Iceland",
+    "description": "Brukes for oversettelse av landkode is"
+  },
+  "UbErqR": {
+    "defaultMessage": "Soviet Union",
+    "description": "Brukes for oversettelse av landkode su"
+  },
+  "UpSrs2": {
+    "defaultMessage": "Effort",
+    "description": "Navigation link text to Effort archive"
+  },
+  "Upi7q5": {
+    "defaultMessage": "cake",
+    "description": "kake"
+  },
+  "Ux+TmT": {
+    "defaultMessage": "Guinea",
+    "description": "Brukes for oversettelse av landkode gn"
+  },
+  "V5cGIS": {
+    "defaultMessage": "Switzerland",
+    "description": "Brukes for oversettelse av landkode ch"
+  },
+  "Y51YvF": {
+    "defaultMessage": "Yugoslavia",
+    "description": "Brukes for oversettelse av landkode yu"
+  },
+  "Y7mzYg": {
+    "defaultMessage": "Blog",
+    "description": "Blog"
+  },
+  "YD3X6k": {
+    "defaultMessage": "Saint Vincent and the Grenadines",
+    "description": "Brukes for oversettelse av landkode vc"
+  },
+  "Yz1N8s": {
+    "defaultMessage": "Trinidad og Tobago",
+    "description": "Brukes for oversettelse av landkode tt"
+  },
+  "Z0VAXf": {
+    "defaultMessage": "Madagascar",
+    "description": "Brukes for oversettelse av landkode mg"
+  },
+  "Z6df7k": {
+    "defaultMessage": "Nicaragua",
+    "description": "Brukes for oversettelse av landkode ni"
+  },
+  "ZH24U6": {
+    "defaultMessage": "Cyprus",
+    "description": "Brukes for oversettelse av landkode cy"
+  },
+  "ZLSxZo": {
+    "defaultMessage": "Canada",
+    "description": "Brukes for oversettelse av landkode ca"
+  },
+  "ZsCdrM": {
+    "defaultMessage": "Finland",
+    "description": "Brukes for oversettelse av landkode fi"
+  },
+  "aYTuUO": {
+    "defaultMessage": "Poland",
+    "description": "Brukes for oversettelse av landkode pl"
+  },
+  "bHxDYX": {
+    "defaultMessage": "Chile",
+    "description": "Brukes for oversettelse av landkode cl"
+  },
+  "bW4Z5x": {
+    "defaultMessage": "St Helena",
+    "description": "Brukes for oversettelse av landkode sh"
+  },
+  "cV9BMe": {
+    "defaultMessage": "Supporters",
+    "description": "Footer link text"
+  },
+  "e/t68r": {
+    "defaultMessage": "Scotland",
+    "description": "Brukes for oversettelse av landkode _scotland"
+  },
+  "eLB0bS": {
+    "defaultMessage": "Bahamas",
+    "description": "Brukes for oversettelse av landkode bs"
+  },
+  "fAY4qt": {
+    "defaultMessage": "Palestine",
+    "description": "Brukes for oversettelse av landkode ps"
+  },
+  "fT7Q/P": {
+    "defaultMessage": "Mongolia",
+    "description": "Brukes for oversettelse av landkode mn"
+  },
+  "g6+shq": {
+    "defaultMessage": "Malaysia",
+    "description": "Brukes for oversettelse av landkode my"
+  },
+  "gKNZqO": {
+    "defaultMessage": "Great Britian",
+    "description": "Brukes for oversettelse av landkode gb"
+  },
+  "h1wt7s": {
+    "defaultMessage": "India",
+    "description": "Brukes for oversettelse av landkode in"
+  },
+  "hUjLWz": {
+    "defaultMessage": "Venezuela",
+    "description": "Brukes for oversettelse av landkode ve"
+  },
+  "hbrW1z": {
+    "defaultMessage": "Mauritius",
+    "description": "Brukes for oversettelse av landkode mu"
+  },
+  "hjTj2n": {
+    "defaultMessage": "Saudi Arabia",
+    "description": "Brukes for oversettelse av landkode sa"
+  },
+  "iEXwFl": {
+    "defaultMessage": "Hong Kong",
+    "description": "Brukes for oversettelse av landkode hk"
+  },
+  "ilgaR3": {
+    "defaultMessage": "Tanzania",
+    "description": "Brukes for oversettelse av landkode tz"
+  },
+  "inymfI": {
+    "defaultMessage": "Honduras",
+    "description": "Brukes for oversettelse av landkode hn"
+  },
+  "j27mGI": {
+    "defaultMessage": "China",
+    "description": "Brukes for oversettelse av landkode cn"
+  },
+  "jbfYyJ": {
+    "defaultMessage": "The Philippines",
+    "description": "Brukes for oversettelse av landkode ph"
+  },
+  "jh32Jg": {
+    "defaultMessage": "Michelet master's degree scholarship",
+    "description": "Footer link text"
+  },
+  "k+GREE": {
+    "defaultMessage": "Portugal",
+    "description": "Brukes for oversettelse av landkode pt"
+  },
+  "lMVs/f": {
+    "defaultMessage": "Seafarer archives",
+    "description": "Page title for seafarer archive"
+  },
+  "lTiMd5": {
+    "defaultMessage": "Ghana",
+    "description": "Brukes for oversettelse av landkode gh"
+  },
+  "lZaLgV": {
+    "defaultMessage": "Samoa",
+    "description": "Brukes for oversettelse av landkode ws"
+  },
+  "mRQmqk": {
+    "defaultMessage": "French Polynesia",
+    "description": "Brukes for oversettelse av landkode pf"
+  },
+  "n+FguY": {
+    "defaultMessage": "Eritrea",
+    "description": "Brukes for oversettelse av landkode er"
+  },
+  "oeETJ4": {
+    "defaultMessage": "Sources",
+    "description": "Footer link text"
+  },
+  "oiSYZS": {
+    "defaultMessage": "Estland",
+    "description": "Brukes for oversettelse av landkode ee"
+  },
+  "pHOw/f": {
+    "defaultMessage": "Peru",
+    "description": "Brukes for oversettelse av landkode pe"
+  },
+  "pT/IoR": {
+    "defaultMessage": "Bermuda",
+    "description": "Brukes for oversettelse av landkode bm"
+  },
+  "pvZAUk": {
+    "defaultMessage": "Barbados",
+    "description": "Brukes for oversettelse av landkode bb"
+  },
+  "q9BQqU": {
+    "defaultMessage": "Ships",
+    "description": "Navigation link text to Ship archive"
+  },
+  "qP84fn": {
+    "defaultMessage": "Jamaica",
+    "description": "Brukes for oversettelse av landkode jm"
+  },
+  "qS013V": {
+    "defaultMessage": "Argentina",
+    "description": "Brukes for oversettelse av landkode ar"
+  },
+  "qfmsB9": {
+    "defaultMessage": "USA",
+    "description": "Brukes for oversettelse av landkode us"
+  },
+  "r+Da2k": {
+    "defaultMessage": "Sweden",
+    "description": "Brukes for oversettelse av landkode se"
+  },
+  "rZsSzd": {
+    "defaultMessage": "Background",
+    "description": "Footer link text"
+  },
+  "rz+Q4P": {
+    "defaultMessage": "Support our work",
+    "description": "Footer link text"
+  },
+  "snPMDa": {
+    "defaultMessage": "Germany",
+    "description": "Brukes for oversettelse av landkode de"
+  },
+  "t4VEgU": {
+    "defaultMessage": "Malta",
+    "description": "Brukes for oversettelse av landkode mt"
+  },
+  "tFcaBG": {
+    "defaultMessage": "Development of the register",
+    "description": "Footer link text"
+  },
+  "tfMzMn": {
+    "defaultMessage": "Norway",
+    "description": "Brukes for oversettelse av landkode no"
+  },
+  "tynkgI": {
+    "defaultMessage": "Vietnam",
+    "description": "Brukes for oversettelse av landkode vn"
+  },
+  "ux5FVQ": {
+    "defaultMessage": "Mexico",
+    "description": "Brukes for oversettelse av landkode mx"
+  },
+  "v7xmEK": {
+    "defaultMessage": "Seafarers",
+    "description": "Navigation link text to Seafarer archive"
+  },
+  "vVdttO": {
+    "defaultMessage": "The Netherlands",
+    "description": "Brukes for oversettelse av landkode nl"
+  },
+  "vbKyp2": {
+    "defaultMessage": "Greece",
+    "description": "Brukes for oversettelse av landkode gr"
+  },
+  "vophtB": {
+    "defaultMessage": "Yemen",
+    "description": "Brukes for oversettelse av landkode ye"
+  },
+  "vrXHQA": {
+    "defaultMessage": "Fiji",
+    "description": "Brukes for oversettelse av landkode fj"
+  },
+  "wH77sY": {
+    "defaultMessage": "Australia",
+    "description": "Brukes for oversettelse av landkode au"
+  },
+  "wUxI/u": {
+    "defaultMessage": "Gibraltar",
+    "description": "Brukes for oversettelse av landkode gi"
+  },
+  "wcobVe": {
+    "defaultMessage": "Denmark",
+    "description": "Brukes for oversettelse av landkode dk"
+  },
+  "wh3cp+": {
+    "defaultMessage": "Home",
+    "description": "Navigation link text to home page"
+  },
+  "x5B5ti": {
+    "defaultMessage": "Seychelles",
+    "description": "Brukes for oversettelse av landkode sc"
+  },
+  "xPvXsA": {
+    "defaultMessage": "Ukraine",
+    "description": "Brukes for oversettelse av landkode ua"
+  },
+  "xiD2oK": {
+    "defaultMessage": "Bolivia",
+    "description": "Brukes for oversettelse av landkode bo"
+  },
+  "yI1cDA": {
+    "defaultMessage": "Belize",
+    "description": "Brukes for oversettelse av landkode bz"
+  },
+  "yz2Ef8": {
+    "defaultMessage": "Uruguay",
+    "description": "Brukes for oversettelse av landkode uy"
+  },
+  "zOdJgp": {
+    "defaultMessage": "Sudan",
+    "description": "Brukes for oversettelse av landkode sd"
+  },
+  "++KaxU": {
+    "defaultMessage": "Date of death",
+    "description": ""
+  },
+  "+tQP/I": {
+    "defaultMessage": "Navy ships",
+    "description": "Translation of facet value for Type of ship"
+  },
+  "+vmLi7": {
+    "defaultMessage": "Documents ({count})",
+    "description": ""
+  },
+  "/5ag6w": {
+    "defaultMessage": "January",
+    "description": "Måned"
+  },
+  "/c08xW": {
+    "defaultMessage": "Next",
+    "description": "Pagination forward"
+  },
+  "/yEl1k": {
+    "defaultMessage": "Attacked from air",
+    "description": "Flyangrep"
+  },
+  "0DW8HY": {
+    "defaultMessage": "Current search is \"{query}\"",
+    "description": ""
+  },
+  "0gk5yU": {
+    "defaultMessage": "December",
+    "description": "Måned"
+  },
+  "0rdeQF": {
+    "defaultMessage": "Nationality",
+    "description": "facet nationality placeholder"
+  },
+  "0yNZ5X": {
+    "defaultMessage": "May",
+    "description": "Måned"
+  },
+  "1z89nZ": {
+    "defaultMessage": "Shipwreck",
+    "description": "Shipwreck"
+  },
+  "2N83NB": {
+    "defaultMessage": "Image",
+    "description": "Seafarer archive: Has Image"
+  },
+  "2nUd9g": {
+    "defaultMessage": "Close",
+    "description": "Lukk"
+  },
+  "3CPcKK": {
+    "defaultMessage": "Search Krigsseilerregisteret",
+    "description": "Front page search box placeholder text"
+  },
+  "3CTDvK": {
+    "defaultMessage": "Build year",
+    "description": "Ship archive page built year column"
+  },
+  "40F+gS": {
+    "defaultMessage": "Images ({count})",
+    "description": ""
+  },
+  "4AnwYM": {
+    "defaultMessage": "Number of results per page",
+    "description": "Results per page for tablet and desktop (longer)"
+  },
+  "4am4SY": {
+    "defaultMessage": "Explore where the Norwegian ships were sunk and learn about them",
+    "description": "Explore where the Norwegian ships were sunk and learn about them"
+  },
+  "4j1xLg": {
+    "defaultMessage": "Filter the list",
+    "description": "Tittel på dialog for å filtrere arkivet"
+  },
+  "4mJE7u": {
+    "defaultMessage": "Whaling expedition 1939-1940",
+    "description": "Whaling expedition 1939-1940"
+  },
+  "52McZf": {
+    "defaultMessage": "Date of birth",
+    "description": ""
+  },
+  "5A99Xz": {
+    "defaultMessage": "Birthplace",
+    "description": ""
+  },
+  "5KgIxq": {
+    "defaultMessage": "Type of ship",
+    "description": "Facet type of ship placeholder"
+  },
+  "6UunMt": {
+    "defaultMessage": "Maritime inquiries 1939 - 1945",
+    "description": ""
+  },
+  "6Wr7o4": {
+    "defaultMessage": "Previous",
+    "description": "Pagination back"
+  },
+  "7Ijkox": {
+    "defaultMessage": "Shelled by gunfire",
+    "description": "Beskutt"
+  },
+  "7eFF3B": {
+    "defaultMessage": "Map of shipwrecks",
+    "description": "Page title for shipwreck overview page"
+  },
+  "9Cdn2b": {
+    "defaultMessage": "Explore the map",
+    "description": ""
+  },
+  "ABfw8I": {
+    "defaultMessage": "Disease",
+    "description": "Disease"
+  },
+  "Ade6aM": {
+    "defaultMessage": "Enlistment district",
+    "description": ""
+  },
+  "BEUoKx": {
+    "defaultMessage": "Image",
+    "description": "Ship archive page image column"
+  },
+  "BhOXOI": {
+    "defaultMessage": "Our supporters",
+    "description": "Footer link text"
+  },
+  "Bv7ysd": {
+    "defaultMessage": "Registered ships",
+    "description": "Registered ships"
+  },
+  "CFHX8n": {
+    "defaultMessage": "Follow us",
+    "description": "Follow us"
+  },
+  "D5RE8O": {
+    "defaultMessage": "Hijacked",
+    "description": "Kapret"
+  },
+  "EdNZ9+": {
+    "defaultMessage": "February",
+    "description": "Måned"
+  },
+  "GJo14O": {
+    "defaultMessage": "Male",
+    "description": "Male"
+  },
+  "GSMCfG": {
+    "defaultMessage": "Registered seafarers",
+    "description": "Registered seafarers"
+  },
+  "HSbesP": {
+    "defaultMessage": "Member of sailor club",
+    "description": ""
+  },
+  "HX42bE": {
+    "defaultMessage": "Born",
+    "description": "Seafarer archive: Born date"
+  },
+  "IQJuJK": {
+    "defaultMessage": "Matrosrulle",
+    "description": ""
+  },
+  "IZZAYy": {
+    "defaultMessage": "Born {date} in {place}",
+    "description": "Born date in place"
+  },
+  "JhhgLt": {
+    "defaultMessage": "Place of living",
+    "description": ""
+  },
+  "KxBuIu": {
+    "defaultMessage": "War accident",
+    "description": "War accident"
+  },
+  "L5ZnRi": {
+    "defaultMessage": "Loading...",
+    "description": "Search box frontpage: loading"
+  },
+  "LPpKTW": {
+    "defaultMessage": "Search for ship",
+    "description": "Ship archive page search input placeholder text"
+  },
+  "LST7/9": {
+    "defaultMessage": "Date of award",
+    "description": ""
+  },
+  "MZxsBP": {
+    "defaultMessage": "Born in {place}",
+    "description": "Born (place)"
+  },
+  "MnL7uJ": {
+    "defaultMessage": "{total, plural, =0 {We have not registered any ships} one {We have one ship registered} other {We have so far registered # ships}}",
+    "description": "Ship arhive page heading"
+  },
+  "NNEcS0": {
+    "defaultMessage": "Day",
+    "description": "Filter for fødselsdato"
+  },
+  "NQHDKk": {
+    "defaultMessage": "Back to seafarer",
+    "description": ""
+  },
+  "NSpnj5": {
+    "defaultMessage": "October",
+    "description": "Måned"
+  },
+  "NXxpjk": {
+    "defaultMessage": "{total, plural, =0 {We have not registered any seafarer} one {We have one seafarer registered} other {We have so far registered # seafarers}}",
+    "description": "Seafarer arhive page heading"
+  },
+  "OFVP4j": {
+    "defaultMessage": "Name",
+    "description": "Ship archive page name column"
+  },
+  "Pn7gOl": {
+    "defaultMessage": "Fire/Explotion",
+    "description": "Brann/Eksplosjon"
+  },
+  "Q1onOz": {
+    "defaultMessage": "Place of birth  (place of living shown if missing)",
+    "description": "Place of birth extra text"
+  },
+  "Q70XW9": {
+    "defaultMessage": "Name",
+    "description": "Seafarer archive: Name"
+  },
+  "QQZRAC": {
+    "defaultMessage": "Nick name",
+    "description": ""
+  },
+  "QSsqaM": {
+    "defaultMessage": "Documents ({documentCount})",
+    "description": ""
+  },
+  "RJUCwt": {
+    "defaultMessage": "Mentioned in issue of Krigsseileren",
+    "description": "Mentioned in issue of Krigsseileren"
+  },
+  "RqU/TQ": {
+    "defaultMessage": "Other",
+    "description": ""
+  },
+  "SeVan2": {
+    "defaultMessage": "Torpedoed",
+    "description": "Torpedert"
+  },
+  "TUDJYH": {
+    "defaultMessage": "Krigsseilerregisteret is part of",
+    "description": ""
+  },
+  "U4/S1n": {
+    "defaultMessage": "Has sailed for shipping company",
+    "description": ""
+  },
+  "UGl7S2": {
+    "defaultMessage": "Medals ({count})",
+    "description": ""
+  },
+  "Uroybh": {
+    "defaultMessage": "Parents",
+    "description": ""
+  },
+  "V8cHEI": {
+    "defaultMessage": "Participated in the following historical events  1939-1945",
+    "description": ""
+  },
+  "VZpPQn": {
+    "defaultMessage": "Ship archive",
+    "description": "Page title for ship archive"
+  },
+  "Vc4Gdq": {
+    "defaultMessage": "Medals ({documentCount})",
+    "description": ""
+  },
+  "ViJdpP": {
+    "defaultMessage": "Education",
+    "description": ""
+  },
+  "WX7OwJ": {
+    "defaultMessage": "War-related shipwreck",
+    "description": "War-related shipwreck"
+  },
+  "X5NWi6": {
+    "defaultMessage": "Unkown",
+    "description": "Unknown"
+  },
+  "XbmElb": {
+    "defaultMessage": "of",
+    "description": "of"
+  },
+  "XnpN4Q": {
+    "defaultMessage": "Interned",
+    "description": "Internert"
+  },
+  "Y9aacn": {
+    "defaultMessage": "Map of shipwrecks",
+    "description": "Map of shipwrecks"
+  },
+  "YM3Ao/": {
+    "defaultMessage": "Signed on {ship}",
+    "description": ""
+  },
+  "YeH3Tl": {
+    "defaultMessage": "World War Two",
+    "description": "Translation of facet value for Participated in war"
+  },
+  "Z3ks55": {
+    "defaultMessage": "{total, plural, =0 {Your search resulted in no results} one {Your search query resulteted in one hit} other {Your search query resulted in # hits}}",
+    "description": "filterdialog vis treff knapp"
+  },
+  "Z5eM6n": {
+    "defaultMessage": "Female",
+    "description": "Female"
+  },
+  "ZB1BTf": {
+    "defaultMessage": "Ran aground",
+    "description": "Grunnstøtt/uvær"
+  },
+  "ZjxGgX": {
+    "defaultMessage": "Justification",
+    "description": ""
+  },
+  "a0j/EC": {
+    "defaultMessage": "Year. E.g. 1901",
+    "description": "Filter for fødselsdato"
+  },
+  "abukZJ": {
+    "defaultMessage": "{total, plural, =0 {Your search resulted in no result} one {Your search query resulteted in one hit} other {Your search query resulted in # hits}}",
+    "description": "search hits"
+  },
+  "b7qlzH": {
+    "defaultMessage": "Served in the Merchant Marine Defence department",
+    "description": "Served in the Merchant Marine Defence department"
+  },
+  "cb0d4W": {
+    "defaultMessage": "Accident",
+    "description": "Accident"
+  },
+  "dArO8M": {
+    "defaultMessage": "Read more about this medal and get a full overview of registered receivers",
+    "description": ""
+  },
+  "dKkvUr": {
+    "defaultMessage": "Place of birth",
+    "description": "Place of birth"
+  },
+  "da0qRe": {
+    "defaultMessage": "Month",
+    "description": "Filter for fødselsdato"
+  },
+  "dnT5oX": {
+    "defaultMessage": "World War One",
+    "description": "Translation of facet value for Participated in war"
+  },
+  "du9tEe": {
+    "defaultMessage": "County",
+    "description": ""
+  },
+  "eKfkZy": {
+    "defaultMessage": "{recipientCount} receivers of this medal.",
+    "description": ""
+  },
+  "ewX1E5": {
+    "defaultMessage": "Loss during WW2",
+    "description": "Ship archive page ww2 destiny column"
+  },
+  "fYmw58": {
+    "defaultMessage": "Did you not find what you were looking for?",
+    "description": ""
+  },
+  "fejj1h": {
+    "defaultMessage": "Shuttled",
+    "description": "Senket av eget mannskap eller alliert skip"
+  },
+  "fi0wrF": {
+    "defaultMessage": "Show only content of a given type",
+    "description": "Facet starting with letter"
+  },
+  "fkW75Y": {
+    "defaultMessage": "Name is not registered",
+    "description": "Name is not registered"
+  },
+  "g7efdN": {
+    "defaultMessage": "Engagements ({count})",
+    "description": ""
+  },
+  "gWfCiN": {
+    "defaultMessage": "Participant in WW2",
+    "description": "Participant in WW2"
+  },
+  "giROx3": {
+    "defaultMessage": "Went missing on the sea",
+    "description": "Went missing on the sea"
+  },
+  "goDeA9": {
+    "defaultMessage": "Home",
+    "description": "Navigation link text to Seafarer archive"
+  },
+  "hPNDgU": {
+    "defaultMessage": "Reset selected filters",
+    "description": "Nullstill filter knapp i filter-dialog"
+  },
+  "hv9sDg": {
+    "defaultMessage": "Collision",
+    "description": "Kollisjon"
+  },
+  "i5BOiU": {
+    "defaultMessage": "Special service, sailing, and/or incidents",
+    "description": "Facet participated in war placeholder"
+  },
+  "iJ7n1z": {
+    "defaultMessage": "Captivity",
+    "description": "Captivity"
+  },
+  "jFBZXq": {
+    "defaultMessage": "Lost during war",
+    "description": "Facet Lost during war placeholder"
+  },
+  "k3THPZ": {
+    "defaultMessage": "Cause of death",
+    "description": "Cause of death"
+  },
+  "kRdVlw": {
+    "defaultMessage": "Going through new source material in order to document the war sailors and their history is an ongoing and extensive effort, and there exist no complete register over decorations awarded. Infomation about medals will therefore be registered gradually and be based on different source materials. The war sailors were awarded medals both during and after the war. Do you want to read more about decorations, then please study this page:",
+    "description": ""
+  },
+  "kdn1JE": {
+    "defaultMessage": "Rank",
+    "description": ""
+  },
+  "kvnKXG": {
+    "defaultMessage": "March",
+    "description": "Måned"
+  },
+  "m3qMtk": {
+    "defaultMessage": "Other",
+    "description": "Other"
+  },
+  "n/dxW/": {
+    "defaultMessage": "Go to archive",
+    "description": ""
+  },
+  "nM+qz0": {
+    "defaultMessage": "By birthdate",
+    "description": "Direkte oppslag på fødselsdato-label"
+  },
+  "nn4AMv": {
+    "defaultMessage": "Born {date}",
+    "description": "Born (date)"
+  },
+  "oB4n/+": {
+    "defaultMessage": "April",
+    "description": "Måned"
+  },
+  "oZcOc6": {
+    "defaultMessage": "July",
+    "description": "Måned"
+  },
+  "pRyhdk": {
+    "defaultMessage": "Unkown",
+    "description": ""
+  },
+  "qNVCsZ": {
+    "defaultMessage": "Built {year}",
+    "description": "Built"
+  },
+  "s38fCa": {
+    "defaultMessage": "Results per page",
+    "description": "Results per page"
+  },
+  "s8Rbtn": {
+    "defaultMessage": "Civilian ships",
+    "description": "Translation of facet value for Type of ship"
+  },
+  "t8O9Ok": {
+    "defaultMessage": "June",
+    "description": "Måned"
+  },
+  "tDgKZs": {
+    "defaultMessage": "Participated in war",
+    "description": "Facet participated in war placeholder"
+  },
+  "tV4XVU": {
+    "defaultMessage": "Decorations",
+    "description": ""
+  },
+  "tYvvWh": {
+    "defaultMessage": "Gender",
+    "description": ""
+  },
+  "tvEd65": {
+    "defaultMessage": "Continue your search in our archive pages with even more search tools",
+    "description": ""
+  },
+  "tx8+Wr": {
+    "defaultMessage": "Sort by",
+    "description": "Sorter etter label"
+  },
+  "uEixtL": {
+    "defaultMessage": "Search Krigsseilerregisteret",
+    "description": "Ship archive page search input placeholder text"
+  },
+  "vB6Ak8": {
+    "defaultMessage": "Requisitioned/confiscated by Axis power",
+    "description": "Rekvirert"
+  },
+  "vmSJgK": {
+    "defaultMessage": "The information on registered seafarers is not in all cases complete. As new sources are studied, information on engagements and medals etc. will be added to some of the already registered seafarers.",
+    "description": ""
+  },
+  "w9Z7uG": {
+    "defaultMessage": "Records",
+    "description": ""
+  },
+  "wA4PxD": {
+    "defaultMessage": "November",
+    "description": "Måned"
+  },
+  "wuj9Fl": {
+    "defaultMessage": "Sunk by mine",
+    "description": "Minesprengt"
+  },
+  "xCrD5r": {
+    "defaultMessage": "Contact us",
+    "description": "Footer link text"
+  },
+  "xcyCLB": {
+    "defaultMessage": "Service",
+    "description": ""
+  },
+  "xfhG5E": {
+    "defaultMessage": "September",
+    "description": "Måned"
+  },
+  "xxbj9R": {
+    "defaultMessage": "Nationality",
+    "description": "Ship archive page nationality column"
+  },
+  "yYvrwX": {
+    "defaultMessage": "Nationality",
+    "description": ""
+  },
+  "yZJK64": {
+    "defaultMessage": "Participant in WW1",
+    "description": "Participant in WW1"
+  },
+  "ya0nDG": {
+    "defaultMessage": "August",
+    "description": "Måned"
+  },
+  "ywdvaw": {
+    "defaultMessage": "Sources",
+    "description": ""
+  },
+  "z25uWy": {
+    "defaultMessage": "Year",
+    "description": "Filter for fødselsdato"
+  },
+  "zZ7PJG": {
+    "defaultMessage": "Miscellaneous",
+    "description": "Opplysninger"
+  },
+  "zbJpkD": {
+    "defaultMessage": "Enlisted {ship} as {position}",
+    "description": ""
+  },
+  "/4tOwT": {
+    "defaultMessage": "Ships",
+    "description": ""
+  },
+  "B6qTDH": {
+    "defaultMessage": "The method used for registering enlistment dates, is transcript of reliable sources.",
+    "description": ""
+  },
+  "Fmz3Yh": {
+    "defaultMessage": "Rank",
+    "description": ""
+  },
+  "N3qWSZ": {
+    "defaultMessage": "Date",
+    "description": ""
+  },
+  "Twsvwb": {
+    "defaultMessage": "Signed on",
+    "description": ""
+  },
+  "g48NmO": {
+    "defaultMessage": "Harbour",
+    "description": ""
+  },
+  "nBndFf": {
+    "defaultMessage": "Signed off",
+    "description": ""
+  },
+  "7pAVPH": {
+    "defaultMessage": "Place of living Å-A",
+    "description": "Sortersvalg sjøfolkarkiv"
+  },
+  "7wbFLP": {
+    "defaultMessage": "Female",
+    "description": "Translation of facet value for Gender"
+  },
+  "9BWkuL": {
+    "defaultMessage": "Service",
+    "description": "Facet flåtetilhørighet"
+  },
+  "MklKyD": {
+    "defaultMessage": "Youngest to oldest",
+    "description": "Sortersvalg sjøfolkarkiv"
+  },
+  "N+ARWt": {
+    "defaultMessage": "County",
+    "description": "Facet county placeholder"
+  },
+  "NDA44F": {
+    "defaultMessage": "Surname Å-A",
+    "description": "Sortersvalg sjøfolkarkiv"
+  },
+  "ay4ezo": {
+    "defaultMessage": "Place of living A-Å",
+    "description": "Sortersvalg sjøfolkarkiv"
+  },
+  "e49Bmk": {
+    "defaultMessage": "Surname A-Å",
+    "description": "Sortersvalg sjøfolkarkiv"
+  },
+  "eyamNp": {
+    "defaultMessage": "First Name A-Å",
+    "description": "Sortersvalg sjøfolkarkiv"
+  },
+  "mvORWt": {
+    "defaultMessage": "Male",
+    "description": "Translation of facet value for Gender"
+  },
+  "nFXkJ3": {
+    "defaultMessage": "Oldest to youngest",
+    "description": "Sortersvalg sjøfolkarkiv"
+  },
+  "o/kXnt": {
+    "defaultMessage": "First Name Å-A",
+    "description": "Sortersvalg sjøfolkarkiv"
+  },
+  "oU8nHh": {
+    "defaultMessage": "Relevance",
+    "description": "Sortersvalg sjøfolkarkiv"
+  },
+  "qX9CIn": {
+    "defaultMessage": "Gender",
+    "description": "Gender placeholder"
+  },
+  "/H5ZcP": {
+    "defaultMessage": "No, did not participate in the Whaling expedition 1939 - 1945",
+    "description": "Translation of facet value for Whaling expedition"
+  },
+  "2PIaJu": {
+    "defaultMessage": "Place",
+    "description": ""
+  },
+  "2ZiVE/": {
+    "defaultMessage": "Shuttled",
+    "description": "Shuttled"
+  },
+  "2eoFAZ": {
+    "defaultMessage": "Submarine",
+    "description": "Senket av"
+  },
+  "2qzrTF": {
+    "defaultMessage": "Nationality",
+    "description": "Nationality"
+  },
+  "3iKbQl": {
+    "defaultMessage": "Call sign",
+    "description": "Kallesignal"
+  },
+  "3wmuyF": {
+    "defaultMessage": "Administrator",
+    "description": ""
+  },
+  "462BlX": {
+    "defaultMessage": "Yes, participated in the Whaling expedition 1939 - 1945",
+    "description": "Translation of facet value for Whaling expedition"
+  },
+  "5WJ2qW": {
+    "defaultMessage": "Details",
+    "description": ""
+  },
+  "5wSevZ": {
+    "defaultMessage": "Class",
+    "description": "Klasse"
+  },
+  "6I57p3": {
+    "defaultMessage": "Collision",
+    "description": "Collision"
+  },
+  "6V8LXx": {
+    "defaultMessage": "Civilian ships",
+    "description": "Civilian ship"
+  },
+  "6h/+9B": {
+    "defaultMessage": "Sunk by mine",
+    "description": "Sunk by mine"
+  },
+  "8C8OsN": {
+    "defaultMessage": "Longitude",
+    "description": ""
+  },
+  "8nvhZ9": {
+    "defaultMessage": "Cargo",
+    "description": ""
+  },
+  "8u2SqF": {
+    "defaultMessage": "Name",
+    "description": ""
+  },
+  "AMoU9C": {
+    "defaultMessage": "Net tonnage",
+    "description": "Net tonnage"
+  },
+  "B4KNKk": {
+    "defaultMessage": "Requisitioned/confiscated by Axis power",
+    "description": "Ble senket årsak"
+  },
+  "BAYTwm": {
+    "defaultMessage": "Effort ({count})",
+    "description": "Navigation link text to Effort archive"
+  },
+  "BP8UiA": {
+    "defaultMessage": "Customs register number",
+    "description": "Tollregistreringsnummer"
+  },
+  "BnZByb": {
+    "defaultMessage": "Reason for loss",
+    "description": "reason for loss placeholder"
+  },
+  "C/eKF0": {
+    "defaultMessage": "Cause",
+    "description": ""
+  },
+  "C9J5QP": {
+    "defaultMessage": "Air",
+    "description": "Senket av"
+  },
+  "E8/3Xk": {
+    "defaultMessage": "Shelled by gunfire",
+    "description": "Shelled by gunfire"
+  },
+  "FUZvKG": {
+    "defaultMessage": "Crew list",
+    "description": ""
+  },
+  "GgWd38": {
+    "defaultMessage": "Ship",
+    "description": "Senket av"
+  },
+  "GiYfFh": {
+    "defaultMessage": "Other names",
+    "description": "Andre navn"
+  },
+  "HOcOdM": {
+    "defaultMessage": "Route",
+    "description": ""
+  },
+  "IGCXOt": {
+    "defaultMessage": "Ran aground",
+    "description": "Ran aground"
+  },
+  "JNfw42": {
+    "defaultMessage": "Shuttled",
+    "description": "Ble senket årsak"
+  },
+  "JguBtj": {
+    "defaultMessage": "Note",
+    "description": ""
+  },
+  "JpQ5LM": {
+    "defaultMessage": "Engine",
+    "description": "Engine"
+  },
+  "K0/qIj": {
+    "defaultMessage": "Build year",
+    "description": "Byggeår"
+  },
+  "LRXOt3": {
+    "defaultMessage": "Enlistment district",
+    "description": "Mønstringsdistrikt"
+  },
+  "LwS8H7": {
+    "defaultMessage": "Hijacked",
+    "description": "Ble senket årsak"
+  },
+  "Ly2tEx": {
+    "defaultMessage": "Fate",
+    "description": ""
+  },
+  "MnsZtx": {
+    "defaultMessage": "Abstract",
+    "description": ""
+  },
+  "O+Q5zx": {
+    "defaultMessage": "Died in second world war",
+    "description": "Facet participated in war placeholder"
+  },
+  "ORedbO": {
+    "defaultMessage": "Interned",
+    "description": "Interned"
+  },
+  "PEGGRo": {
+    "defaultMessage": "{shipName}",
+    "description": "Page title for ship profile page"
+  },
+  "PEVFl6": {
+    "defaultMessage": "Shelled by gunfire",
+    "description": "Ble senket årsak"
+  },
+  "PbD+R2": {
+    "defaultMessage": "Speed",
+    "description": "Speed"
+  },
+  "QmDgL4": {
+    "defaultMessage": "{shipwreckName}",
+    "description": "Page title for shipwreck profile page"
+  },
+  "SDLzMD": {
+    "defaultMessage": "Engine size",
+    "description": "Engine size"
+  },
+  "T0DbRx": {
+    "defaultMessage": "Length",
+    "description": "Length"
+  },
+  "U5a/4Z": {
+    "defaultMessage": "{seafarerName}",
+    "description": "Page title for seafarer profile page"
+  },
+  "V12SoL": {
+    "defaultMessage": "Rank",
+    "description": ""
+  },
+  "VJ9gRg": {
+    "defaultMessage": "Latitude",
+    "description": ""
+  },
+  "Vs81tl": {
+    "defaultMessage": "Explore where the Norwegian ships were sunk and learn about them",
+    "description": "Explore where the Norwegian ships were sunk and learn about them"
+  },
+  "W+jr2a": {
+    "defaultMessage": "Fire/Explosion",
+    "description": "Fire/Explosion"
+  },
+  "WeqAIt": {
+    "defaultMessage": "{articleName}",
+    "description": "Page title for article"
+  },
+  "Xb1Pph": {
+    "defaultMessage": "Ran aground",
+    "description": "Ble senket årsak"
+  },
+  "YSjfGI": {
+    "defaultMessage": "Information",
+    "description": "Opplysninger"
+  },
+  "YaiS6H": {
+    "defaultMessage": "The information below regarding ships in the Nortraship fleet is a direct transcript of the original source 'Sjøforklaringer fra andre verdenskrig (1940 - 1945)'. The informasjon is collected from maritime inquiries held during and right after the war. The information may differ from the other quality assured information in Krigsseilerregisteret.",
+    "description": ""
+  },
+  "Z0eI/0": {
+    "defaultMessage": "Nationality",
+    "description": "Nasjonalitet"
+  },
+  "ZWF0VM": {
+    "defaultMessage": "Beam",
+    "description": "Beam"
+  },
+  "ZiZMs+": {
+    "defaultMessage": "Other",
+    "description": "Annet"
+  },
+  "aZKliy": {
+    "defaultMessage": "Torpedoed",
+    "description": "Ble senket årsak"
+  },
+  "adizNT": {
+    "defaultMessage": "Deck log (in norwegian)",
+    "description": ""
+  },
+  "cBh+wH": {
+    "defaultMessage": "Survived",
+    "description": ""
+  },
+  "cdmBCj": {
+    "defaultMessage": "Deadweight",
+    "description": "Deadweight"
+  },
+  "cfZbL6": {
+    "defaultMessage": "Requisitioned/confiscated by Axis power",
+    "description": "Requisitioned/confiscated by Axis power"
+  },
+  "dRZ4dt": {
+    "defaultMessage": "Attacked from air",
+    "description": "Attacked from air"
+  },
+  "dySO9/": {
+    "defaultMessage": "Whaling expedition 1939 - 1945",
+    "description": "Facet whaling expedition placeholder"
+  },
+  "e0fD8J": {
+    "defaultMessage": "Performed by",
+    "description": "Performed by placeholder"
+  },
+  "eIVgC4": {
+    "defaultMessage": "Back to ship",
+    "description": "Tilbake til skipsprofil"
+  },
+  "fVlCAH": {
+    "defaultMessage": "Missing",
+    "description": ""
+  },
+  "gLujmC": {
+    "defaultMessage": "Shipyard",
+    "description": "Verft"
+  },
+  "gMj9iV": {
+    "defaultMessage": "Dimensions",
+    "description": "Dimensions"
+  },
+  "gX4/rY": {
+    "defaultMessage": "in",
+    "description": "in"
+  },
+  "goKn96": {
+    "defaultMessage": "Captured",
+    "description": ""
+  },
+  "h1tcmT": {
+    "defaultMessage": "Fire/Explosion",
+    "description": "Ble senket årsak"
+  },
+  "hJot6B": {
+    "defaultMessage": "Age",
+    "description": ""
+  },
+  "hM5zTY": {
+    "defaultMessage": "Inquiry (in norwegian)",
+    "description": ""
+  },
+  "i6/cqe": {
+    "defaultMessage": "Maritime inquiries 1939 - 1945",
+    "description": "Sjøforklaring 1939 - 1945"
+  },
+  "iBWH/M": {
+    "defaultMessage": "Home port",
+    "description": "Hjemmehavn"
+  },
+  "jDmvPu": {
+    "defaultMessage": "Built by",
+    "description": "Built by"
+  },
+  "jPMbYc": {
+    "defaultMessage": "Month of delivery",
+    "description": "Leveringsmåned"
+  },
+  "jqbO+I": {
+    "defaultMessage": "Cargo volume",
+    "description": "Cargo volume"
+  },
+  "kHF0Os": {
+    "defaultMessage": "Collision",
+    "description": "Ble senket årsak"
+  },
+  "klNYQG": {
+    "defaultMessage": "Tonnage",
+    "description": "Tonnage"
+  },
+  "kmuzJK": {
+    "defaultMessage": "Article archive",
+    "description": "Page title for article overview page"
+  },
+  "m6Yg84": {
+    "defaultMessage": "Torpedoed",
+    "description": "Torpedoed"
+  },
+  "n738vr": {
+    "defaultMessage": "Hijacked",
+    "description": "Hijacked"
+  },
+  "o13Z+x": {
+    "defaultMessage": "No, did not die during second world war",
+    "description": "Translation of facet value for DiedWW2"
+  },
+  "phlCy3": {
+    "defaultMessage": "Deceased",
+    "description": ""
+  },
+  "plIF9d": {
+    "defaultMessage": "Base",
+    "description": "Base"
+  },
+  "puCbSf": {
+    "defaultMessage": "Sunk by  mine",
+    "description": "Ble senket årsak"
+  },
+  "q7P8pG": {
+    "defaultMessage": "Gross tonnage",
+    "description": "Gross tonnage"
+  },
+  "qSk//9": {
+    "defaultMessage": "Yard number",
+    "description": "Byggenummer"
+  },
+  "rOs3G8": {
+    "defaultMessage": "Navy ship",
+    "description": "Navy ship"
+  },
+  "rZtHJf": {
+    "defaultMessage": "Back to inquiries",
+    "description": ""
+  },
+  "rkw/kt": {
+    "defaultMessage": "Shipwreck location",
+    "description": ""
+  },
+  "rmTG7q": {
+    "defaultMessage": "Not registered",
+    "description": "Brukes for oversettelse av tom landkode"
+  },
+  "rrpQJv": {
+    "defaultMessage": "Crew list ({count})",
+    "description": ""
+  },
+  "sDzcK9": {
+    "defaultMessage": "Shipping company",
+    "description": "Rederi"
+  },
+  "sEM1gj": {
+    "defaultMessage": "Propulsion",
+    "description": "Propulsion"
+  },
+  "sFXv8G": {
+    "defaultMessage": "Crew list",
+    "description": ""
+  },
+  "tfyd9e": {
+    "defaultMessage": "Customs register date",
+    "description": "Tollregistreringsdato"
+  },
+  "urlq84": {
+    "defaultMessage": "Land",
+    "description": "Senket av"
+  },
+  "v7LJ54": {
+    "defaultMessage": "Maritime inquiry 1939-1945",
+    "description": ""
+  },
+  "vlyzu/": {
+    "defaultMessage": "Yes, deceased during second world war",
+    "description": "Translation of facet value for DiedWW2"
+  },
+  "vndlJI": {
+    "defaultMessage": "Interned",
+    "description": "Ble senket årsak"
+  },
+  "w2gFtx": {
+    "defaultMessage": "Caused by nation",
+    "description": "facet forårsaket av nasjon"
+  },
+  "wQCyTY": {
+    "defaultMessage": "Other cause",
+    "description": "Other cause"
+  },
+  "wr4/G4": {
+    "defaultMessage": "Was sunk:",
+    "description": "Was sunk: "
+  },
+  "xVDPqA": {
+    "defaultMessage": "Attacked from air",
+    "description": "Ble senket årsak"
+  },
+  "zZZW2n": {
+    "defaultMessage": "Draft",
+    "description": "Draft"
+  },
+  "0lBR/O": {
+    "defaultMessage": "Born {birthDate} in {place}",
+    "description": "Born {birthDate} in {place}"
+  },
+  "30p10v": {
+    "defaultMessage": "{total, plural, =0 {We have so far registered zero issues of  Krigsseileren} one {We have so far registered one issue of Krigsseileren} other {We have so far registered # issues of Krigsseileren}}",
+    "description": "WarSailors Journal archive page heading"
+  },
+  "3XmR8m": {
+    "defaultMessage": "{positionName}",
+    "description": "Page title for position profile page"
+  },
+  "68BJfk": {
+    "defaultMessage": "Name",
+    "description": "Participants archive: Name"
+  },
+  "87xexN": {
+    "defaultMessage": "{awardName}",
+    "description": "Page title for award page"
+  },
+  "8FMmLo": {
+    "defaultMessage": "No registrered shipenlistments",
+    "description": "No registrered shipenlistments"
+  },
+  "9gEUsS": {
+    "defaultMessage": "Issue",
+    "description": "Issue"
+  },
+  "AmZIeO": {
+    "defaultMessage": "{warSailorsJournal}",
+    "description": "Page title for warSailorsJournal page"
+  },
+  "Cosyog": {
+    "defaultMessage": "shiparchive",
+    "description": "Visit shiparchive label"
+  },
+  "DFL8P/": {
+    "defaultMessage": "Archive for Tidskriftet Krigsseileren",
+    "description": "Page title for Warsailors Journal overview page"
+  },
+  "DYNasw": {
+    "defaultMessage": "No images",
+    "description": ""
+  },
+  "DZqAHj": {
+    "defaultMessage": "No attachments for person",
+    "description": "No attachments for person"
+  },
+  "Eh+C5m": {
+    "defaultMessage": "{title} ({total})",
+    "description": ""
+  },
+  "JDNFh0": {
+    "defaultMessage": "Year",
+    "description": "Year"
+  },
+  "JM7bwl": {
+    "defaultMessage": "No attachments for ship",
+    "description": "No attachments for ship"
+  },
+  "JuE1WA": {
+    "defaultMessage": "Name",
+    "description": "WarSailorsJournal archive: Name"
+  },
+  "KVw0JB": {
+    "defaultMessage": "Harbour position",
+    "description": ""
+  },
+  "KZwmcY": {
+    "defaultMessage": "Return to homepage",
+    "description": "Return to homepage"
+  },
+  "KbpU8o": {
+    "defaultMessage": "Award archive",
+    "description": "Page title for award archive"
+  },
+  "L4LTu8": {
+    "defaultMessage": "{total, plural, =0 {We have so far not registered any medals} one {We have so far registered one medal} other {We have so far registerd # medals}}",
+    "description": "Award arhive page heading"
+  },
+  "R9yNEG": {
+    "defaultMessage": "Read more",
+    "description": "Read more"
+  },
+  "RkZqtR": {
+    "defaultMessage": "{navigationName}",
+    "description": "Page title for navigation page"
+  },
+  "W6DQ2e": {
+    "defaultMessage": "Name",
+    "description": "Award archive: Name"
+  },
+  "XBr1JZ": {
+    "defaultMessage": "Seafarers",
+    "description": ""
+  },
+  "YJW3wT": {
+    "defaultMessage": "Sorry, this page does not exist",
+    "description": "Missing page label"
+  },
+  "ZGxTk8": {
+    "defaultMessage": "Try to search",
+    "description": "Helping text label"
+  },
+  "a+dzW+": {
+    "defaultMessage": "{harbourName}",
+    "description": "Page title for harbour profile page"
+  },
+  "dK8YZr": {
+    "defaultMessage": "Issue",
+    "description": "WarSailorsJournal archive: Issue"
+  },
+  "f2lh/R": {
+    "defaultMessage": "Load more",
+    "description": "Load more label"
+  },
+  "gfmEfy": {
+    "defaultMessage": "Details",
+    "description": "Participants archive: Details"
+  },
+  "gkY1DK": {
+    "defaultMessage": "Try another query",
+    "description": ""
+  },
+  "jNIc+j": {
+    "defaultMessage": "Build year {buildYear}",
+    "description": "Built year"
+  },
+  "jkXNRa": {
+    "defaultMessage": "Download issue",
+    "description": "Download issue"
+  },
+  "jwSmdX": {
+    "defaultMessage": "Longitude",
+    "description": "longitude"
+  },
+  "k05SgZ": {
+    "defaultMessage": "{shipyardName}",
+    "description": "Page title for shipyard profile page"
+  },
+  "obEbzf": {
+    "defaultMessage": "Picture 1 of {count}",
+    "description": "PictureCount label"
+  },
+  "p//sAi": {
+    "defaultMessage": "archive",
+    "description": "Visit shiparchive label"
+  },
+  "rjBiWq": {
+    "defaultMessage": "You can go {backToFrontPage}, visit out {visitShipArchive} or {visitSeafarerArchive}",
+    "description": "Helping text with links label"
+  },
+  "tH5lhZ": {
+    "defaultMessage": "Enter your query",
+    "description": "Enter your query"
+  },
+  "tbc1qA": {
+    "defaultMessage": "Show only content of a given type",
+    "description": "Show only content of a given type"
+  },
+  "ttc4OF": {
+    "defaultMessage": "Read more",
+    "description": "Read more"
+  },
+  "wZLU4Q": {
+    "defaultMessage": "Latitude",
+    "description": "latitude"
+  },
+  "yu3uKg": {
+    "defaultMessage": "Year",
+    "description": "WarSailorsJournal archive: Year"
+  },
+  "U1S5Nx": {
+    "defaultMessage": "Krigsseilerregisteret is owned and run by the",
+    "description": ""
+  },
+  "09uXrv": {
+    "defaultMessage": "Krigsseilerregisteret is owned and run by the",
+    "description": "Krigsseilerregisteret eies og drives av"
+  },
+  "ijxRvJ": {
+    "defaultMessage": "Search for seafarers/Search for ships",
+    "description": "Søk etter sjøfolk/Søk etter skip"
+  },
+  "/Gmbfp": {
+    "defaultMessage": "Loss",
+    "description": ""
+  },
+  "1FCrm8": {
+    "defaultMessage": "Filter cause",
+    "description": "Kart over forlis"
+  },
+  "926OPO": {
+    "defaultMessage": "Search for seafarers",
+    "description": "Søk etter sjøfolk"
+  },
+  "B1nwn3": {
+    "defaultMessage": "Class",
+    "description": ""
+  },
+  "MEn2K5": {
+    "defaultMessage": "Read more",
+    "description": "Lenke til skipsdetaljer i kart over forlis"
+  },
+  "Z1oTe1": {
+    "defaultMessage": "Reason for loss",
+    "description": ""
+  },
+  "ccKD7c": {
+    "defaultMessage": "Build year",
+    "description": ""
+  },
+  "cqo0e1": {
+    "defaultMessage": "Other names",
+    "description": ""
+  },
+  "dBPth/": {
+    "defaultMessage": "Error with Google maps",
+    "description": "Feilmelding Google maps"
+  },
+  "hVCDGT": {
+    "defaultMessage": "Sunk date",
+    "description": ""
+  },
+  "rCW4ES": {
+    "defaultMessage": "Performed by",
+    "description": ""
+  },
+  "sBwhNt": {
+    "defaultMessage": "Call sign",
+    "description": ""
+  },
+  "tsXO8C": {
+    "defaultMessage": "Caused by nation",
+    "description": ""
+  },
+  "z0Y5AP": {
+    "defaultMessage": "Search for ships",
+    "description": "Søk etter skip"
+  },
+  "EJfOcy": {
+    "defaultMessage": "Build year",
+    "description": "Search archive: Bygget "
+  },
+  "Mfm6fV": {
+    "defaultMessage": "Name/Title",
+    "description": "Search archive: Navn/Tittel"
+  },
+  "U230K6": {
+    "defaultMessage": "Search",
+    "description": "Page title for søk"
+  },
+  "eUznDs": {
+    "defaultMessage": "Enter your query",
+    "description": "Archive page search input placeholder text"
+  },
+  "xppTYw": {
+    "defaultMessage": "Search the whole site",
+    "description": "Search arhive page heading"
+  },
+  "3oZFlL": {
+    "defaultMessage": "Registered participants",
+    "description": "Registrerte deltakere"
+  },
+  "BRdOiF": {
+    "defaultMessage": "Seafarers and ships",
+    "description": "Sjøfolk og skip"
+  },
+  "55sS6K": {
+    "defaultMessage": "Ships",
+    "description": "Skip"
+  },
+  "ggWh3g": {
+    "defaultMessage": "Seafarers",
+    "description": "Sjømann"
+  },
+  "iEFgql": {
+    "defaultMessage": "Maritime inquiries 1939 - 1945",
+    "description": "Sjøforklaring 1939 - 1945"
+  },
+  "rG9Qu8": {
+    "defaultMessage": "Maritime inquiry  1939-1945",
+    "description": "Sjøforklaring 1939-1945"
+  },
+  "1x/duT": {
+    "defaultMessage": "Djibouti",
+    "description": "Brukes for oversettelse av landkode _scotland"
+  },
+  "6pJ36u": {
+    "defaultMessage": "Jordan",
+    "description": "Brukes for oversettelse av landkode _scotland"
+  },
+  "7HHKTp": {
+    "defaultMessage": "Albania",
+    "description": "Brukes for oversettelse av landkode _scotland"
+  },
+  "BGYpAz": {
+    "defaultMessage": "Sierra Leone",
+    "description": "Brukes for oversettelse av landkode _scotland"
+  },
+  "oo/Bk7": {
+    "defaultMessage": "Thailand",
+    "description": "Brukes for oversettelse av landkode _scotland"
+  },
+  "pnKqvq": {
+    "defaultMessage": "Zimbabwe",
+    "description": "Brukes for oversettelse av landkode _scotland"
+  },
+  "wiksfl": {
+    "defaultMessage": "Iran",
+    "description": "Brukes for oversettelse av landkode _scotland"
+  },
+  "zJZG4L": {
+    "defaultMessage": "Syria",
+    "description": "Brukes for oversettelse av landkode _scotland"
+  },
+  "24eDaQ": {
+    "defaultMessage": "All",
+    "description": "Filter label for displaying all years in nav page"
+  },
+  "93bvlw": {
+    "defaultMessage": "Only show articles for year",
+    "description": "Filter heading, show only articles from year"
+  },
+  "GcBQFK": {
+    "defaultMessage": "Syria",
+    "description": "Brukes for oversettelse av landkode sy"
+  },
+  "MOUslf": {
+    "defaultMessage": "Iran",
+    "description": "Brukes for oversettelse av landkode ir"
+  },
+  "OlRwNU": {
+    "defaultMessage": "{total, plural, =0 {Vi har så langt ikke registrert noen utgaver av Krigsseileren} one {Vi har så langt registert én utgave av Krigsseileren} other {Vi har så langt registrert # utgaver av Krigsseileren}}",
+    "description": "WarSailors Journal archive page heading"
+  },
+  "UD8CIu": {
+    "defaultMessage": "Personell",
+    "description": "Personnel (for ships with show as base = true)"
+  },
+  "WyxWtd": {
+    "defaultMessage": "Albania",
+    "description": "Brukes for oversettelse av landkode al"
+  },
+  "g0NeNV": {
+    "defaultMessage": "Zimbabwe",
+    "description": "Brukes for oversettelse av landkode zw"
+  },
+  "hG/0nK": {
+    "defaultMessage": "Djibouti",
+    "description": "Brukes for oversettelse av landkode dj"
+  },
+  "nXQl0c": {
+    "defaultMessage": "Thailand",
+    "description": "Brukes for oversettelse av landkode th"
+  },
+  "s2cDjb": {
+    "defaultMessage": "Jordan",
+    "description": "Brukes for oversettelse av landkode jo"
+  },
+  "wBitbG": {
+    "defaultMessage": "Sierra Leone",
+    "description": "Brukes for oversettelse av landkode sl"
+  },
+  "8yGWEt": {
+    "defaultMessage": "Lived",
+    "description": "Tekst foran bosted i arkiv"
+  },
+  "OGuuxx": {
+    "defaultMessage": "Show only ships with date of loss",
+    "description": "Direkte oppslag på skip tapsdato-label"
+  },
+  "pqQDRK": {
+    "defaultMessage": "Year",
+    "description": "Filter for tapsdato"
+  },
+  "sf1EQ9": {
+    "defaultMessage": "Born in",
+    "description": "Tekst foran fødested i arkiv"
+  },
+  "swxEu8": {
+    "defaultMessage": "Month",
+    "description": "Filter for tapsdato"
+  },
+  "bpjNR6": {
+    "defaultMessage": "Explore where Norwegian ships were sunk and learn about them. The map also shows foreign ships where Norwegian seamen were signed on",
+    "description": "Text under 'Kart over forlis'"
+  },
+  "0xZoqQ": {
+    "defaultMessage": "krigsseilerregisteret-privacy",
+    "description": "artikkellenke"
+  },
+  "8Lviwx": {
+    "defaultMessage": "krigsseilerregisteret-sources",
+    "description": "artikkellenke"
+  },
+  "9NVE3t": {
+    "defaultMessage": "krigsseilerregisteret-supporters",
+    "description": "artikkellenke"
+  },
+  "B8j9Q8": {
+    "defaultMessage": "krigsseilerregisteret-support-our-work",
+    "description": "artikkellenke"
+  },
+  "Gr7ViI": {
+    "defaultMessage": "krigsseilerregisteret-background",
+    "description": "artikkellenke"
+  },
+  "a70LLa": {
+    "defaultMessage": "krigsseilerregisteret-contact-us",
+    "description": "artikkellenke"
+  },
+  "ckUeLj": {
+    "defaultMessage": "krigsseilerregisteret-editors",
+    "description": "artikkellenke"
+  },
+  "wJyHhg": {
+    "defaultMessage": "krigsseilerregisteret-development",
+    "description": "artikkellenke"
+  },
+  "+MMgWT": {
+    "defaultMessage": "Search results"
+  },
+  "Y29RBm": {
+    "defaultMessage": "Search by ship name",
+    "description": "search shipwreck"
+  },
+  "jMCVTG": {
+    "defaultMessage": "Search results",
+    "description": "heading i søkeresultat forlisside"
+  },
+  "lZ+yi3": {
+    "defaultMessage": "Search results",
+    "description": "heading i søketreff forlisside"
+  },
+  "37OZzF": {
+    "defaultMessage": "No results",
+    "description": "heading i søketreff forlisside"
+  },
+  "iXSqrN": {
+    "defaultMessage": "Show less",
+    "description": "Les mer om sjømanns foreldre"
+  },
+  "j3ce9c": {
+    "defaultMessage": "Show more",
+    "description": "Les mer om sjømanns foreldre"
+  },
+  "wD0Yy6": {
+    "defaultMessage": "Captivity",
+    "description": "Captivity in WW2"
+  },
+  "Zc7ySN": {
+    "defaultMessage": "Search for ships",
+    "description": "search shipwreck"
+  },
+  "9ZmPk1": {
+    "defaultMessage": "The method used for registering a place of service is to transcribe from the archives of the Royal Norwegian Navy in London during the Second World War, “Sjøforsvarets londonarkiv”. Both engagements and places of service in the Navy are recorded here. Place of service can be a type of service and/or a description of a place of service.",
+    "description": "Places of Transcription Info"
+  },
+  "JJFl8I": {
+    "defaultMessage": "Torpedoed",
+    "description": "beskrivelse kart over forlis"
+  },
+  "S333bF": {
+    "defaultMessage": "Places of Service ({count})",
+    "description": ""
+  },
+  "cgKGAM": {
+    "defaultMessage": "Shelled by gunfire",
+    "description": "beskrivelse kart over forlis"
+  },
+  "itRi4u": {
+    "defaultMessage": "Sunk by mine",
+    "description": "beskrivelse kart over forlis"
+  },
+  "pnl0zl": {
+    "defaultMessage": "Hijacked",
+    "description": "beskrivelse kart over forlis"
+  },
+  "pw7vSK": {
+    "defaultMessage": "Attacked from air",
+    "description": "beskrivelse kart over forlis"
+  },
+  "Jt7jGS": {
+    "defaultMessage": "See archive of all War Sailors of the Month",
+    "description": "Link to war sailor of the month archive from frontpage"
+  },
+  "PxDUKY": {
+    "defaultMessage": "War Sailor of the Month - {name}",
+    "description": "Page title for article"
+  },
+  "UBxZWa": {
+    "defaultMessage": "WAR SAILOR OF THE MONTH",
+    "description": "Månedens krigsseiler forside"
+  },
+  "e+8I5U": {
+    "defaultMessage": "Read more",
+    "description": "frontpage warsailor"
+  },
+  "l7ZUmU": {
+    "defaultMessage": "Archive of War Sailor of the Month",
+    "description": "PArkiv over Månedens krigsseiler"
+  },
+  "uNQ0Qg": {
+    "defaultMessage": "Read more about",
+    "description": "frontpage warsailor"
+  },
+  "OSz0kE": {
+    "defaultMessage": "War Sailor of the Month",
+    "description": "Månedens Krigsseiler arkiv overskrift"
+  },
+  "/mxahp": {
+    "defaultMessage": "Read more about {name} on their profile page",
+    "description": "Link to warsailor from war sailor of the month page"
+  },
+  "0soVQg": {
+    "defaultMessage": "NEWS",
+    "description": ""
+  },
+  "BqA9JM": {
+    "defaultMessage": "Read more about {name} on their profile page",
+    "description": "Link to warsailor from War Sailor of the Month page"
+  },
+  "2nIycr": {
+    "defaultMessage": "“The War Sailor of the Month” tells the story of one seafarer’s experience during the Second World War. The Centre for the History of Seafarers at War has presented “The War Sailor of the Month” since 2014 to show the broad spectre of the seafarer’s experiences in wartime and commemorate their effort. Read their stories here.",
+    "description": "Månedens Krigsseiler archive intro"
+  },
+  "y3j7CS": {
+    "defaultMessage": "War Sailor of the Month",
+    "description": "Link to war sailor of the month on seafarer profile page"
+  },
+  "5WLy35": {
+    "defaultMessage": "Place of service",
+    "description": "places of service detail page"
+  },
+  "7ySyW6": {
+    "defaultMessage": "Position",
+    "description": "places of service detail page"
+  },
+  "9LGndE": {
+    "defaultMessage": "Nationality",
+    "description": "places of service detail page"
+  },
+  "NVPR9r": {
+    "defaultMessage": "From",
+    "description": "places of service detail page"
+  },
+  "ScQ6Y7": {
+    "defaultMessage": "Ukjent",
+    "description": "places of service detail page"
+  },
+  "p2ZdSc": {
+    "defaultMessage": "To",
+    "description": "places of service detail page"
+  },
+  "tqzhdo": {
+    "defaultMessage": "NEWS",
+    "description": "Aktuelt forside"
+  },
+  "7K6dv1": {
+    "defaultMessage": "Les mer om {name} på hens profilside",
+    "description": "Link to warsailor from war sailor of the month page"
+  },
+  "PgNeUu": {
+    "defaultMessage": "War Sailor of the Month",
+    "description": "Link to war sailor of the month on seafarer profile page"
+  },
+  "mo3GRj": {
+    "defaultMessage": "Archive of all War Sailors of the Month",
+    "description": "Link to war sailor of the month archive from frontpage"
+  },
+  "pq93uc": {
+    "defaultMessage": "ARTICLE",
+    "description": "Artikkel forside"
+  }
+}

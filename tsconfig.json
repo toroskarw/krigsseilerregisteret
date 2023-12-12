@@ -1,0 +1,28 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "baseUrl": "src",
+    "paths": {
+      "@/images/*": ["../public/images/*"],
+    },
+    "lib": ["dom", "dom.iterable", "esnext"],
+    "allowJs": true,
+    "skipLibCheck": true,
+    "strict": false,
+    "forceConsistentCasingInFileNames": true,
+    "noEmit": true,
+    "esModuleInterop": true,
+    "module": "esnext",
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "jsx": "preserve",
+    "incremental": true,
+  },
+  "typedocOptions": {
+    "entryPoints": ["src/pages/index.tsx"],
+    "out": "doc/typedoc"
+  },
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", "next.config.js", "src"],
+  "exclude": ["node_modules"]
+}
